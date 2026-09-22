@@ -17,6 +17,26 @@
   ],
   "entries": [
     {
+      "name": "quick-bitwarden",
+      "url": "https://github.com/Kevin-Ramirez127/quick-bitwarden",
+      "description": "A quick way to copy your Bitwarden passwords that works on rofi/wofi window.",
+      "category": "Desktop",
+      "tags": [
+        "linux"
+      ],
+      "language": [
+        "shell"
+      ],
+      "maintainers": [
+        "@Kevin-Ramirez127"
+      ],
+      "license": "GPL-3.0",
+      "monetization": "none",
+      "open_source": true,
+      "repository": "https://github.com/Kevin-Ramirez127/quick-bitwarden",
+      "open_to_contributions": true
+    },
+    {
       "name": "Enodia",
       "url": "https://github.com/carlosplanchon/enodia",
       "description": "Wardriving on foot, without GPS or internet.",

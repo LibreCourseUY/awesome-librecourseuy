@@ -1,10 +1,10 @@
 {
   "name": "quick-bitwarden",
   "url": "https://github.com/Kevin-Ramirez127/quick-bitwarden",
-  "description": "A quick way to copy your Bitwarden passwords that works on rofi/wofi window.",
+  "description": "A quick way to copy your Bitwarden passwords, with a fast r-modals picker.",
   "category": "Desktop",
   "tags": ["linux"],
-  "language": ["shell"],
+  "language": ["rust"],
   "maintainers": ["@Kevin-Ramirez127"],
   "license": "GPL-3.0",
   "repository": "https://github.com/Kevin-Ramirez127/quick-bitwarden",

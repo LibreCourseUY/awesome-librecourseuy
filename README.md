@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-41 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+42 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -81,6 +81,10 @@ explains what listing means and when an entry is removed.
 - [ArgosUY](https://github.com/LibreCourseUY/ArgosUY): Open-source platform that indexes Uruguay's GitHub ecosystem and exposes it through a FastAPI backend.
 - [crxml](https://crxml.emiliano-go.com/): High-performance Crystal Reports XML parser built on the rypipe columnar ingestion engine. ([@emiliano-go](https://github.com/emiliano-go))
 - [rypipe](https://rypipe.emiliano-go.com/): Format- and source-agnostic ingestion framework: a common execution runtime for turning record-oriented data sources into typed columnar data. Rust core, Python bindings. ([@emiliano-go](https://github.com/emiliano-go))
+
+### Games
+
+- [LibreGameUy](https://github.com/CyberSpora/LibreGameUy): A competitive multiplayer game set in the suburbs of Montevideo ([@CyberSpora](https://github.com/CyberSpora))
 
 ### Automation
 

@@ -619,6 +619,28 @@
       "open_source": true
     },
     {
+      "name": "LibreGameUy",
+      "url": "https://github.com/CyberSpora/LibreGameUy",
+      "description": "A competitive multiplayer game set in the suburbs of Montevideo",
+      "category": "Games",
+      "tags": [
+        "game"
+      ],
+      "language": [
+        "C++",
+        "GDScript"
+      ],
+      "maintainers": [
+        "@CyberSpora"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/CyberSpora/LibreGameUy",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "acrresolv",
       "url": "https://github.com/emiliano-go/acrresolv",
       "description": "Hybrid acronym resolver: rules + lookup + ML. 95.5% accuracy on unseen data, <1ms inference.",

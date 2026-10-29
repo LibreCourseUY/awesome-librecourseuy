@@ -1,0 +1,12 @@
+{
+  "name": "LibreGameUy",
+  "url": "https://github.com/CyberSpora/LibreGameUy",
+  "description": "A competitive multiplayer game set in the suburbs of Montevideo",
+  "category": "Games",
+  "tags": ["game"],
+  "language": ["C++", "GDScript"],
+  "maintainers": ["@CyberSpora"],
+  "license": "MIT",
+  "repository": "https://github.com/CyberSpora/LibreGameUy",
+  "open_to_contributions": true
+}

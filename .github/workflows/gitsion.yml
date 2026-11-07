@@ -1,0 +1,26 @@
+name: Sync projects to gitsion
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "entries/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gitsion-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Track every listed project in gitsion
+        env:
+          GITSION_URL: https://api.gitsion.librecourse.uy
+          GITSION_ADMIN_TOKEN: ${{ secrets.GITSION_ADMIN_TOKEN }}
+        run: python3 scripts/sync_gitsion.py

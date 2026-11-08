@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-42 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+56 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -29,6 +29,9 @@ explains what listing means and when an entry is removed.
 - [libreblog](https://github.com/LibreCourseUY/libreblog): Blog for LibreCourseUY built with Hugo and auto-deployed via GitHub Actions.
 - [mapcreator](https://mapcreator.emiliano-go.com/): Interactive multi-floor building map editor with A* pathfinding. Paint tile-based floor plans, define vertical connections and visualize shortest paths across floors. ([@emiliano-go](https://github.com/emiliano-go))
 - [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.
+- [Portfolio](https://github.com/emiliano-go/emiliano-gandini-outeda.github.io): Personal portfolio website. ([@emiliano-go](https://github.com/emiliano-go))
+- [TrustSight Feed](https://watcher.trustsight.org/): Searchable feed of TrustSight AUR watcher alerts. ([@emiliano-go](https://github.com/emiliano-go))
+- [TrustSight Web](https://github.com/emiliano-go/trustsight-web): Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits. ([@emiliano-go](https://github.com/emiliano-go))
 - [urumap](https://github.com/LibreCourseUY/urumap): Interactive maps of Uruguayan public buildings, rendered from mapcreator JSON.
 
 ### APIs
@@ -60,6 +63,8 @@ explains what listing means and when an entry is removed.
 - [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React.
 - [schemap](https://schemap.emiliano-go.com/): Automatic Pydantic schemas for SQLAlchemy models. ([@emiliano-go](https://github.com/emiliano-go))
 - [tagurl](https://github.com/emiliano-go/tagurl): Accepts a natural language query and returns ranked semantic tags and an SEO-friendly URL slug as structured JSON. ([@emiliano-go](https://github.com/emiliano-go))
+- [xmlstreamer-ng](https://github.com/emiliano-go/xmlstreamer-ng): Fault-isolating XML feed streamer with a Rust engine: per-item streaming plus columnar, parallel, memory-bounded Arrow ingestion. ([@emiliano-go](https://github.com/emiliano-go))
+- [xmlstreamer-poc](https://github.com/emiliano-go/xmlstreamer-poc): Python library that parses XML data from HTTP, HTTPS or FTP sources without loading the entire file into memory. ([@emiliano-go](https://github.com/emiliano-go))
 
 ### Developer Tools
 
@@ -70,15 +75,26 @@ explains what listing means and when an entry is removed.
 - [hydra_in_typescript](https://github.com/netaru3/hydra_in_typescript): is a typescript version of hydra.
 - [Keel](https://keel-linux.github.io/): Library and CLI for declarative Keel Linux appliances, compatible with TurnKey Linux appliances.
 - [laya-coding-decisions](https://github.com/emiliano-go/laya-coding-decisions): Training data and harness to turn Laya into a coding-agent judge for the hestia decision engine. ([@emiliano-go](https://github.com/emiliano-go))
+- [opencode-bgj](https://github.com/emiliano-go/opencode-bgj): Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background. ([@emiliano-go](https://github.com/emiliano-go))
+- [Panopticon](https://github.com/emiliano-go/panopticon): Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard. ([@emiliano-go](https://github.com/emiliano-go))
+- [RBG-Harness](https://github.com/emiliano-go/RBG-Harness): Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models. ([@emiliano-go](https://github.com/emiliano-go))
 - [scripts](https://github.com/LibreCourseUY/scripts): A collection of community-contributed utility scripts, organized by programming language.
 - [tornet](https://github.com/netaru3/tornet): is hydra whit rotation ip for each N petitions.
 - [Totem](https://github.com/emiliano-go/totem): Persistent memory layer for engineering agents. MCP server + CLI. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight](https://trustsight.org/): AUR package update vetting tool. Run it before yay -Syu. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight Harness](https://github.com/emiliano-go/trustsight-harness): Reproducible, cost-tracked adversarial measurement harness for TrustSight. ([@emiliano-go](https://github.com/emiliano-go))
+- [TrustSight Lab](https://github.com/emiliano-go/trustsight-lab): Offline ML tooling to find, rank and validate deterministic TrustSight rule improvements. ([@emiliano-go](https://github.com/emiliano-go))
+
+### Education
+
+- [Cpp-Notes](https://github.com/emiliano-go/Cpp-Notes): C++ notes from my studies, published as a static site. ([@emiliano-go](https://github.com/emiliano-go))
+- [Equinox](https://github.com/emiliano-go/Equinox): A personal cold storage of everything I learn. ([@emiliano-go](https://github.com/emiliano-go))
 
 ### Data & Analytics
 
 - [ArgosUY](https://github.com/LibreCourseUY/ArgosUY): Open-source platform that indexes Uruguay's GitHub ecosystem and exposes it through a FastAPI backend.
+- [autoimmune-disorder-prediction](https://github.com/emiliano-go/autoimmune-disorder-prediction): Machine-learning exploration of the All Autoimmune Disorder 10k dataset: data download and cleaning package plus EDA and feature-engineering notebooks. ([@emiliano-go](https://github.com/emiliano-go))
+- [carpricepredictor](https://github.com/emiliano-go/carpricepredictor): Predict car prices from the classic Automobile Data Set: linear-regression pipeline, FastAPI service and containerized frontend. ([@emiliano-go](https://github.com/emiliano-go))
 - [crxml](https://crxml.emiliano-go.com/): High-performance Crystal Reports XML parser built on the rypipe columnar ingestion engine. ([@emiliano-go](https://github.com/emiliano-go))
 - [rypipe](https://rypipe.emiliano-go.com/): Format- and source-agnostic ingestion framework: a common execution runtime for turning record-oriented data sources into typed columnar data. Rust core, Python bindings. ([@emiliano-go](https://github.com/emiliano-go))
 
@@ -90,6 +106,7 @@ explains what listing means and when an entry is removed.
 
 - [heard](https://github.com/emiliano-go/heard): Voice-controlled tooling daemon for Linux using Needle. ([@emiliano-go](https://github.com/emiliano-go))
 - [interferon](https://github.com/emiliano-go/interferon): Immune-inspired signaling for Docker stacks: containers broadcast typed failure and recovery signals so the fleet can respond like neighboring cells. ([@emiliano-go](https://github.com/emiliano-go))
+- [TrustSight Triage Agent](https://github.com/emiliano-go/trustsight-triage-agent): Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule. ([@emiliano-go](https://github.com/emiliano-go))
 - [vigil](https://github.com/emiliano-go/vigil): GitHub activity Prefect flow: scheduled ETL of your own contribution data. ([@emiliano-go](https://github.com/emiliano-go))
 
 ### Other

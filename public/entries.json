@@ -150,6 +150,29 @@
       "open_source": true
     },
     {
+      "name": "TrustSight Triage Agent",
+      "url": "https://github.com/emiliano-go/trustsight-triage-agent",
+      "description": "Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule.",
+      "category": "Automation",
+      "tags": [
+        "ai-agents",
+        "mcp",
+        "aur",
+        "security"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/trustsight-triage-agent",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "vigil",
       "url": "https://github.com/emiliano-go/vigil",
       "description": "GitHub activity Prefect flow: scheduled ETL of your own contribution data.",
@@ -276,6 +299,52 @@
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/ArgosUY",
       "relationship": "official",
+      "open_source": true
+    },
+    {
+      "name": "autoimmune-disorder-prediction",
+      "url": "https://github.com/emiliano-go/autoimmune-disorder-prediction",
+      "description": "Machine-learning exploration of the All Autoimmune Disorder 10k dataset: data download and cleaning package plus EDA and feature-engineering notebooks.",
+      "category": "Data & Analytics",
+      "tags": [
+        "data",
+        "dataset",
+        "python"
+      ],
+      "language": [
+        "Jupyter Notebook"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/autoimmune-disorder-prediction",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "carpricepredictor",
+      "url": "https://github.com/emiliano-go/carpricepredictor",
+      "description": "Predict car prices from the classic Automobile Data Set: linear-regression pipeline, FastAPI service and containerized frontend.",
+      "category": "Data & Analytics",
+      "tags": [
+        "data",
+        "python",
+        "fastapi",
+        "docker"
+      ],
+      "language": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/carpricepredictor",
+      "relationship": "community",
       "open_source": true
     },
     {
@@ -516,6 +585,69 @@
       "open_source": true
     },
     {
+      "name": "opencode-bgj",
+      "url": "https://github.com/emiliano-go/opencode-bgj",
+      "description": "Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background.",
+      "category": "Developer Tools",
+      "tags": [
+        "mcp",
+        "typescript"
+      ],
+      "language": [
+        "TypeScript"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/opencode-bgj",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Panopticon",
+      "url": "https://github.com/emiliano-go/panopticon",
+      "description": "Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard.",
+      "category": "Developer Tools",
+      "tags": [
+        "python",
+        "mcp"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/panopticon",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "RBG-Harness",
+      "url": "https://github.com/emiliano-go/RBG-Harness",
+      "description": "Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models.",
+      "category": "Developer Tools",
+      "tags": [
+        "ai-agents",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/RBG-Harness",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "scripts",
       "url": "https://github.com/LibreCourseUY/scripts",
       "description": "A collection of community-contributed utility scripts, organized by programming language.",
@@ -615,6 +747,66 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-harness",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "TrustSight Lab",
+      "url": "https://github.com/emiliano-go/trustsight-lab",
+      "description": "Offline ML tooling to find, rank and validate deterministic TrustSight rule improvements.",
+      "category": "Developer Tools",
+      "tags": [
+        "python",
+        "security",
+        "supply-chain"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/trustsight-lab",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Cpp-Notes",
+      "url": "https://github.com/emiliano-go/Cpp-Notes",
+      "description": "C++ notes from my studies, published as a static site.",
+      "category": "Education",
+      "tags": [],
+      "language": [
+        "HTML"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/Cpp-Notes",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Equinox",
+      "url": "https://github.com/emiliano-go/Equinox",
+      "description": "A personal cold storage of everything I learn.",
+      "category": "Education",
+      "tags": [
+        "typescript"
+      ],
+      "language": [
+        "TypeScript"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/Equinox",
       "relationship": "community",
       "open_source": true
     },
@@ -789,6 +981,53 @@
       "open_source": true
     },
     {
+      "name": "xmlstreamer-ng",
+      "url": "https://github.com/emiliano-go/xmlstreamer-ng",
+      "description": "Fault-isolating XML feed streamer with a Rust engine: per-item streaming plus columnar, parallel, memory-bounded Arrow ingestion.",
+      "category": "Libraries",
+      "tags": [
+        "xml",
+        "streaming",
+        "rust",
+        "python",
+        "etl"
+      ],
+      "language": [
+        "Rust",
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/xmlstreamer-ng",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "xmlstreamer-poc",
+      "url": "https://github.com/emiliano-go/xmlstreamer-poc",
+      "description": "Python library that parses XML data from HTTP, HTTPS or FTP sources without loading the entire file into memory.",
+      "category": "Libraries",
+      "tags": [
+        "xml",
+        "streaming",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/xmlstreamer-poc",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "Blue_tornet",
       "url": "https://github.com/netaru3/Blue_tornet",
       "description": "is a tor proxy whit isolate circuits",
@@ -918,6 +1157,69 @@
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/open-groups",
       "relationship": "official",
+      "open_source": true
+    },
+    {
+      "name": "Portfolio",
+      "url": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io",
+      "description": "Personal portfolio website.",
+      "category": "Web",
+      "tags": [],
+      "language": [
+        "HTML"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "AGPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "TrustSight Feed",
+      "url": "https://watcher.trustsight.org/",
+      "description": "Searchable feed of TrustSight AUR watcher alerts.",
+      "category": "Web",
+      "tags": [
+        "aur",
+        "security",
+        "supply-chain"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/trustsight-feed",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "TrustSight Web",
+      "url": "https://github.com/emiliano-go/trustsight-web",
+      "description": "Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits.",
+      "category": "Web",
+      "tags": [
+        "aur",
+        "react",
+        "security",
+        "supply-chain"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@emiliano-go"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/emiliano-go/trustsight-web",
+      "relationship": "community",
       "open_source": true
     },
     {

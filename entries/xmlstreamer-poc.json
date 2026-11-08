@@ -1,0 +1,18 @@
+{
+  "name": "xmlstreamer-poc",
+  "description": "Python library that parses XML data from HTTP, HTTPS or FTP sources without loading the entire file into memory.",
+  "category": "Libraries",
+  "tags": [
+    "xml",
+    "streaming",
+    "python"
+  ],
+  "language": [
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/xmlstreamer-poc"
+}

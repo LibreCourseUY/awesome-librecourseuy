@@ -1,0 +1,19 @@
+{
+  "name": "TrustSight Feed",
+  "url": "https://watcher.trustsight.org",
+  "description": "Searchable feed of TrustSight AUR watcher alerts.",
+  "category": "Web",
+  "tags": [
+    "aur",
+    "security",
+    "supply-chain"
+  ],
+  "language": [
+    "JavaScript"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/trustsight-feed"
+}

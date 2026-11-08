@@ -1,0 +1,20 @@
+{
+  "name": "carpricepredictor",
+  "description": "Predict car prices from the classic Automobile Data Set: linear-regression pipeline, FastAPI service and containerized frontend.",
+  "category": "Data & Analytics",
+  "tags": [
+    "data",
+    "python",
+    "fastapi",
+    "docker"
+  ],
+  "language": [
+    "Jupyter Notebook",
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/carpricepredictor"
+}

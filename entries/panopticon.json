@@ -1,0 +1,17 @@
+{
+  "name": "Panopticon",
+  "description": "Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard.",
+  "category": "Developer Tools",
+  "tags": [
+    "python",
+    "mcp"
+  ],
+  "language": [
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/panopticon"
+}

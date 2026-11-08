@@ -1,0 +1,19 @@
+{
+  "name": "TrustSight Web",
+  "description": "Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits.",
+  "category": "Web",
+  "tags": [
+    "aur",
+    "react",
+    "security",
+    "supply-chain"
+  ],
+  "language": [
+    "JavaScript"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/trustsight-web"
+}

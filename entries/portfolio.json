@@ -1,0 +1,14 @@
+{
+  "name": "Portfolio",
+  "description": "Personal portfolio website.",
+  "category": "Web",
+  "tags": [],
+  "language": [
+    "HTML"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io"
+}

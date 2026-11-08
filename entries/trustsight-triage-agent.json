@@ -1,0 +1,19 @@
+{
+  "name": "TrustSight Triage Agent",
+  "description": "Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule.",
+  "category": "Automation",
+  "tags": [
+    "ai-agents",
+    "mcp",
+    "aur",
+    "security"
+  ],
+  "language": [
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/trustsight-triage-agent"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "opencode-bgj",
+  "description": "Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background.",
+  "category": "Developer Tools",
+  "tags": [
+    "mcp",
+    "typescript"
+  ],
+  "language": [
+    "TypeScript"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/opencode-bgj"
+}

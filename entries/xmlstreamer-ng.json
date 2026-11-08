@@ -1,0 +1,21 @@
+{
+  "name": "xmlstreamer-ng",
+  "description": "Fault-isolating XML feed streamer with a Rust engine: per-item streaming plus columnar, parallel, memory-bounded Arrow ingestion.",
+  "category": "Libraries",
+  "tags": [
+    "xml",
+    "streaming",
+    "rust",
+    "python",
+    "etl"
+  ],
+  "language": [
+    "Rust",
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/xmlstreamer-ng"
+}

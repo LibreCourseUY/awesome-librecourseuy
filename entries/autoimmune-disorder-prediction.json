@@ -1,0 +1,18 @@
+{
+  "name": "autoimmune-disorder-prediction",
+  "description": "Machine-learning exploration of the All Autoimmune Disorder 10k dataset: data download and cleaning package plus EDA and feature-engineering notebooks.",
+  "category": "Data & Analytics",
+  "tags": [
+    "data",
+    "dataset",
+    "python"
+  ],
+  "language": [
+    "Jupyter Notebook"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/autoimmune-disorder-prediction"
+}

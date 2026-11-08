@@ -1,0 +1,14 @@
+{
+  "name": "Cpp-Notes",
+  "description": "C++ notes from my studies, published as a static site.",
+  "category": "Education",
+  "tags": [],
+  "language": [
+    "HTML"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/Cpp-Notes"
+}

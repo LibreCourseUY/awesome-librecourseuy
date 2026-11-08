@@ -1,0 +1,17 @@
+{
+  "name": "RBG-Harness",
+  "description": "Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models.",
+  "category": "Developer Tools",
+  "tags": [
+    "ai-agents",
+    "python"
+  ],
+  "language": [
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/RBG-Harness"
+}

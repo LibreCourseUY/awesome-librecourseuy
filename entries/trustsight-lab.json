@@ -1,0 +1,18 @@
+{
+  "name": "TrustSight Lab",
+  "description": "Offline ML tooling to find, rank and validate deterministic TrustSight rule improvements.",
+  "category": "Developer Tools",
+  "tags": [
+    "python",
+    "security",
+    "supply-chain"
+  ],
+  "language": [
+    "Python"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/trustsight-lab"
+}

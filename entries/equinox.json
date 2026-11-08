@@ -1,0 +1,16 @@
+{
+  "name": "Equinox",
+  "description": "A personal cold storage of everything I learn.",
+  "category": "Education",
+  "tags": [
+    "typescript"
+  ],
+  "language": [
+    "TypeScript"
+  ],
+  "maintainers": [
+    "@emiliano-go"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/emiliano-go/Equinox"
+}

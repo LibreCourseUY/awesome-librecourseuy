@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-56 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+57 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -106,6 +106,7 @@ explains what listing means and when an entry is removed.
 
 - [heard](https://github.com/emiliano-go/heard): Voice-controlled tooling daemon for Linux using Needle. ([@emiliano-go](https://github.com/emiliano-go))
 - [interferon](https://github.com/emiliano-go/interferon): Immune-inspired signaling for Docker stacks: containers broadcast typed failure and recovery signals so the fleet can respond like neighboring cells. ([@emiliano-go](https://github.com/emiliano-go))
+- [opencode-telegram](https://github.com/Kevin-Ramirez127/opencode-telegram): Go daemon that bridges OpenCode sessions to Telegram, notifying allowlisted chats about finished sessions, agent questions and permission requests. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
 - [TrustSight Triage Agent](https://github.com/emiliano-go/trustsight-triage-agent): Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule. ([@emiliano-go](https://github.com/emiliano-go))
 - [vigil](https://github.com/emiliano-go/vigil): GitHub activity Prefect flow: scheduled ETL of your own contribution data. ([@emiliano-go](https://github.com/emiliano-go))
 

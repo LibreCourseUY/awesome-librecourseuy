@@ -150,6 +150,29 @@
       "open_source": true
     },
     {
+      "name": "opencode-telegram",
+      "url": "https://github.com/Kevin-Ramirez127/opencode-telegram",
+      "description": "Go daemon that bridges OpenCode sessions to Telegram, notifying allowlisted chats about finished sessions, agent questions and permission requests.",
+      "category": "Automation",
+      "tags": [
+        "ai-agents",
+        "automation",
+        "go"
+      ],
+      "language": [
+        "Go",
+        "Shell"
+      ],
+      "maintainers": [
+        "@Kevin-Ramirez127"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/Kevin-Ramirez127/opencode-telegram",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "TrustSight Triage Agent",
       "url": "https://github.com/emiliano-go/trustsight-triage-agent",
       "description": "Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule.",

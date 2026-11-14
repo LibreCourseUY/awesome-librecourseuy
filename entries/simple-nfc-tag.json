@@ -1,0 +1,11 @@
+{
+  "name": "simple-nfc-tag",
+  "url": "https://github.com/nicolasgutierrezdev/simple-nfc-tag",
+  "description": "A tag-agnostic NFC data storage library built on PC/SC, abstracting away reader, tag and protocol details.",
+  "category": "Libraries",
+  "tags": ["python"],
+  "language": ["Python"],
+  "maintainers": ["@nicolasgutierrezdev"],
+  "license": "MIT",
+  "repository": "https://github.com/nicolasgutierrezdev/simple-nfc-tag"
+}

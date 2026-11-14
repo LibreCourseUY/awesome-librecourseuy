@@ -1,0 +1,11 @@
+{
+  "name": "cedulauy-mrz-scan",
+  "url": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
+  "description": "Scan and parse the Machine Readable Zone (MRZ) of Uruguayan identity cards from photos or a live webcam feed.",
+  "category": "CLI Tools",
+  "tags": ["python", "cli"],
+  "language": ["Python"],
+  "maintainers": ["@nicolasgutierrezdev"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan"
+}

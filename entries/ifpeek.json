@@ -1,0 +1,11 @@
+{
+  "name": "ifpeek",
+  "url": "https://github.com/carlosplanchon/ifpeek",
+  "description": "Inspect Linux network interfaces, Wi-Fi state, routes, DNS and network events from Python.",
+  "category": "Libraries",
+  "tags": ["linux", "wifi", "python"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/ifpeek"
+}

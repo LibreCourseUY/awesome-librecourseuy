@@ -1,0 +1,11 @@
+{
+  "name": "deblotch",
+  "url": "https://github.com/carlosplanchon/deblotch",
+  "description": "Python API and CLI for removing color blotches and unwanted gradients from flat illustrations while preserving edges.",
+  "category": "CLI Tools",
+  "tags": ["python", "cli"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carlosplanchon/deblotch"
+}

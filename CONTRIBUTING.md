@@ -55,6 +55,8 @@ A project is listed when all of the following hold:
 - Its repository is not archived and its URL works. CI verifies both.
 - It is a project in its own right: not a fork with no changes, a template, a
   tutorial or exercise repository, or a placeholder.
+  [FastAPI Boilerplate](https://github.com/benavlabs/FastAPI-boilerplate) is an
+  accepted exception to the template exclusion.
 - It does not misrepresent its authorship or its official status.
 
 Reviewers may decline an entry that passes CI but falls outside the list's

@@ -1,0 +1,11 @@
+{
+  "name": "zsh-classic-stack",
+  "url": "https://github.com/carlosplanchon/zsh-classic-stack",
+  "description": "Diagnose and configure a Zsh terminal stack or migrate from Oh My Zsh and Powerlevel10k to a complete shell profile.",
+  "category": "CLI Tools",
+  "tags": ["cli", "automation"],
+  "language": ["Shell"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/zsh-classic-stack"
+}

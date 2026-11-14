@@ -1,0 +1,11 @@
+{
+  "name": "tokenizesentences",
+  "url": "https://github.com/carlosplanchon/tokenizesentences",
+  "description": "Dependency-free Python tokenizer for splitting English text into sentences and locating sentence spans.",
+  "category": "Libraries",
+  "tags": ["python", "nlp"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/tokenizesentences"
+}

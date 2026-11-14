@@ -1,0 +1,11 @@
+{
+  "name": "ClaudIA",
+  "url": "https://github.com/gauchitodev/ClaudIA",
+  "description": "WhatsApp bot for Uruguayan groups with AI conversation, games, economy, moderation, memory and autonomous interactions.",
+  "category": "Automation",
+  "tags": ["whatsapp", "automation", "javascript", "game"],
+  "language": ["JavaScript"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/ClaudIA"
+}

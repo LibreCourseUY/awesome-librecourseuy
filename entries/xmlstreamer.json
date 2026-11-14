@@ -1,0 +1,11 @@
+{
+  "name": "xmlstreamer",
+  "url": "https://github.com/carlosplanchon/xmlstreamer",
+  "description": "Stream large XML feeds with bounded memory, decompression, encoding detection and explicit handling of partial failures.",
+  "category": "Libraries",
+  "tags": ["xml", "streaming", "python", "etl"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/xmlstreamer"
+}

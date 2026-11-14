@@ -1,0 +1,11 @@
+{
+  "name": "gencedula",
+  "url": "https://github.com/carlosplanchon/gencedula",
+  "description": "Generate checksum-valid Uruguayan identity document numbers and verify their check digits.",
+  "category": "Libraries",
+  "tags": ["python", "offline"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/gencedula"
+}

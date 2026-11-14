@@ -1,0 +1,11 @@
+{
+  "name": "parse-broken-json",
+  "url": "https://github.com/carlosplanchon/parse-broken-json",
+  "description": "Recover malformed or truncated JSON, including streamed LLM output, with explicit reporting of repairs.",
+  "category": "Libraries",
+  "tags": ["python", "data"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/parse-broken-json"
+}

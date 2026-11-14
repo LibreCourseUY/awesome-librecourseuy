@@ -7,5 +7,6 @@
   "language": ["HTML", "JavaScript", "CSS"],
   "maintainers": ["@carlosplanchon"],
   "license": "Apache-2.0",
-  "repository": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat"
+  "repository": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat",
+  "open_to_contributions": true
 }

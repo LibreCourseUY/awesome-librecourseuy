@@ -7,5 +7,6 @@
   "language": ["PHP", "Pawn"],
   "maintainers": ["@NicolasBentancur"],
   "license": "MIT",
-  "repository": "https://github.com/NicolasBentancur/ClaudIA-CS1.6"
+  "repository": "https://github.com/NicolasBentancur/ClaudIA-CS1.6",
+  "open_to_contributions": true
 }

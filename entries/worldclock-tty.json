@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/worldclock-tty"
+  "repository": "https://github.com/carlosplanchon/worldclock-tty",
+  "open_to_contributions": true
 }

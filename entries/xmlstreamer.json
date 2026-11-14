@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/xmlstreamer"
+  "repository": "https://github.com/carlosplanchon/xmlstreamer",
+  "open_to_contributions": true
 }

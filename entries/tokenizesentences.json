@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/tokenizesentences"
+  "repository": "https://github.com/carlosplanchon/tokenizesentences",
+  "open_to_contributions": true
 }

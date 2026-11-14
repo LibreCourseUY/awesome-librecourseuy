@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/measurevolume"
+  "repository": "https://github.com/carlosplanchon/measurevolume",
+  "open_to_contributions": true
 }

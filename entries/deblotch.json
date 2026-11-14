@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "Apache-2.0",
-  "repository": "https://github.com/carlosplanchon/deblotch"
+  "repository": "https://github.com/carlosplanchon/deblotch",
+  "open_to_contributions": true
 }

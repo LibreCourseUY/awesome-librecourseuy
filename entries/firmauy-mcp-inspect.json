@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "Apache-2.0",
-  "repository": "https://github.com/carlosplanchon/firmauy-mcp-inspect"
+  "repository": "https://github.com/carlosplanchon/firmauy-mcp-inspect",
+  "open_to_contributions": true
 }

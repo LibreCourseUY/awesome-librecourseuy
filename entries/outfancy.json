@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/outfancy"
+  "repository": "https://github.com/carlosplanchon/outfancy",
+  "open_to_contributions": true
 }

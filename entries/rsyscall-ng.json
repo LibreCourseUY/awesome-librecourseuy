@@ -7,5 +7,6 @@
   "language": ["Python", "Rust"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/rsyscall-ng"
+  "repository": "https://github.com/carlosplanchon/rsyscall-ng",
+  "open_to_contributions": true
 }

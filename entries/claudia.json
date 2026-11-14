@@ -7,5 +7,6 @@
   "language": ["JavaScript"],
   "maintainers": ["@gauchitodev"],
   "license": "MIT",
-  "repository": "https://github.com/gauchitodev/ClaudIA"
+  "repository": "https://github.com/gauchitodev/ClaudIA",
+  "open_to_contributions": true
 }

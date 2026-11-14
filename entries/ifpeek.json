@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/ifpeek"
+  "repository": "https://github.com/carlosplanchon/ifpeek",
+  "open_to_contributions": true
 }

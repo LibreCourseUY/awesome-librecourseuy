@@ -7,5 +7,6 @@
   "language": ["Shell"],
   "maintainers": ["@carlosplanchon"],
   "license": "MIT",
-  "repository": "https://github.com/carlosplanchon/sway-workstation"
+  "repository": "https://github.com/carlosplanchon/sway-workstation",
+  "open_to_contributions": true
 }

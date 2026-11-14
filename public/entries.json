@@ -282,6 +282,27 @@
       "open_source": true
     },
     {
+      "name": "cedulauy-mrz-scan",
+      "url": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
+      "description": "Scan and parse the Machine Readable Zone (MRZ) of Uruguayan identity cards from photos or a live webcam feed.",
+      "category": "CLI Tools",
+      "tags": [
+        "python",
+        "cli"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@nicolasgutierrezdev"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "checkcorruptedimages",
       "url": "https://github.com/carlosplanchon/checkcorruptedimages",
       "description": "Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes.",
@@ -1391,6 +1412,26 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/schemap",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "simple-nfc-tag",
+      "url": "https://github.com/nicolasgutierrezdev/simple-nfc-tag",
+      "description": "A tag-agnostic NFC data storage library built on PC/SC, abstracting away reader, tag and protocol details.",
+      "category": "Libraries",
+      "tags": [
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@nicolasgutierrezdev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/nicolasgutierrezdev/simple-nfc-tag",
       "relationship": "community",
       "open_source": true
     },

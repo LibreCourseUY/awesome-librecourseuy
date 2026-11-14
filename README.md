@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-82 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+84 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -49,6 +49,7 @@ explains what listing means and when an entry is removed.
 
 ### CLI Tools
 
+- [cedulauy-mrz-scan](https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan): Scan and parse the Machine Readable Zone (MRZ) of Uruguayan identity cards from photos or a live webcam feed. ([@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
 - [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages): Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [deblotch](https://github.com/carlosplanchon/deblotch): Python API and CLI for removing color blotches and unwanted gradients from flat illustrations while preserving edges. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [detrack](https://github.com/emiliano-go/detrack): Strip tracking parameters from URLs. Deterministically. Zero dependencies. ([@emiliano-go](https://github.com/emiliano-go))
@@ -77,6 +78,7 @@ explains what listing means and when an entry is removed.
 - [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React.
 - [rsyscall-ng](https://github.com/carlosplanchon/rsyscall-ng): Modernized rsyscall for controlling local and remote Linux processes from Python, with a Rust native implementation. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [schemap](https://schemap.emiliano-go.com/): Automatic Pydantic schemas for SQLAlchemy models. ([@emiliano-go](https://github.com/emiliano-go))
+- [simple-nfc-tag](https://github.com/nicolasgutierrezdev/simple-nfc-tag): A tag-agnostic NFC data storage library built on PC/SC, abstracting away reader, tag and protocol details. ([@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
 - [tagurl](https://github.com/emiliano-go/tagurl): Accepts a natural language query and returns ranked semantic tags and an SEO-friendly URL slug as structured JSON. ([@emiliano-go](https://github.com/emiliano-go))
 - [tokenizesentences](https://github.com/carlosplanchon/tokenizesentences): Dependency-free Python tokenizer for splitting English text into sentences and locating sentence spans. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [xmlstreamer](https://github.com/carlosplanchon/xmlstreamer): Stream large XML feeds with bounded memory, decompression, encoding detection and explicit handling of partial failures. ([@carlosplanchon](https://github.com/carlosplanchon))

@@ -1,0 +1,11 @@
+{
+  "name": "binja_wasm",
+  "description": "Binary Ninja plugin that adds WebAssembly as an architecture, with decoding, text view and BNIL lifting.",
+  "category": "Security",
+  "tags": ["security", "wasm"],
+  "language": ["C++", "Python"],
+  "maintainers": ["@SecondNewtonLaw"],
+  "license": "MIT",
+  "repository": "https://github.com/SecondNewtonLaw/binja_wasm",
+  "open_to_contributions": true
+}

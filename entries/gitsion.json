@@ -1,0 +1,20 @@
+{
+  "name": "gitsion",
+  "description": "View on dashboard github repositories",
+  "category": "Web",
+  "tags": [
+    "go",
+    "astro",
+    "typescript"
+  ],
+  "language": [
+    "Go",
+    "Astro",
+    "TypeScript"
+  ],
+  "maintainers": [
+    "@Kevin-Ramirez127"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/Kevin-Ramirez127/gitsion"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "rbxcs",
+  "description": "Work-in-progress C# to Luau transpiler for Roblox, with automatic binding generation at build time.",
+  "category": "Developer Tools",
+  "language": ["C#", "Luau"],
+  "maintainers": ["@SecondNewtonLaw"],
+  "license": "MIT",
+  "repository": "https://github.com/SecondNewtonLaw/rbxcs",
+  "open_to_contributions": true
+}

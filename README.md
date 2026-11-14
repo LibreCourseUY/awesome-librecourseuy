@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-85 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+89 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -99,6 +99,7 @@ explains what listing means and when an entry is removed.
 - [opencode-bgj](https://github.com/emiliano-go/opencode-bgj): Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background. ([@emiliano-go](https://github.com/emiliano-go))
 - [Panopticon](https://github.com/emiliano-go/panopticon): Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard. ([@emiliano-go](https://github.com/emiliano-go))
 - [RBG-Harness](https://github.com/emiliano-go/RBG-Harness): Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models. ([@emiliano-go](https://github.com/emiliano-go))
+- [rbxcs](https://github.com/SecondNewtonLaw/rbxcs): Work-in-progress C# to Luau transpiler for Roblox, with automatic binding generation at build time. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
 - [scripts](https://github.com/LibreCourseUY/scripts): A collection of community-contributed utility scripts, organized by programming language.
 - [starship-p10k-rainbow](https://github.com/carlosplanchon/starship-p10k-rainbow): Starship prompt preset that recreates the Powerlevel10k rainbow style across supported shells. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [tornet](https://github.com/netaru3/tornet): is hydra whit rotation ip for each N petitions.
@@ -128,8 +129,11 @@ explains what listing means and when an entry is removed.
 
 ### Security
 
+- [binja_wasm](https://github.com/SecondNewtonLaw/binja_wasm): Binary Ninja plugin that adds WebAssembly as an architecture, with decoding, text view and BNIL lifting. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
 - [FirmaUY](https://github.com/carlosplanchon/firmauy): Sign and verify PDF, XML and arbitrary files locally with the Uruguayan electronic identity card. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [firmauy-mcp-inspect](https://github.com/carlosplanchon/firmauy-mcp-inspect): Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY. ([@carlosplanchon](https://github.com/carlosplanchon))
+- [Fission](https://github.com/SecondNewtonLaw/Fission): Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
+- [SharpHide](https://github.com/SecondNewtonLaw/SharpHide): C# obfuscator for .NET assemblies, being rebuilt as a continuation of an older project. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
 
 ### Automation
 

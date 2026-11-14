@@ -1691,6 +1691,30 @@
       "open_source": true
     },
     {
+      "name": "gitsion",
+      "url": "https://github.com/Kevin-Ramirez127/gitsion",
+      "description": "View on dashboard github repositories",
+      "category": "Web",
+      "tags": [
+        "go",
+        "astro",
+        "typescript"
+      ],
+      "language": [
+        "Go",
+        "Astro",
+        "TypeScript"
+      ],
+      "maintainers": [
+        "@Kevin-Ramirez127"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/Kevin-Ramirez127/gitsion",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "libreblog",
       "url": "https://github.com/LibreCourseUY/libreblog",
       "description": "Blog for LibreCourseUY built with Hugo and auto-deployed via GitHub Actions.",

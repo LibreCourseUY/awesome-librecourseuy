@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-84 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+85 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -26,6 +26,7 @@ explains what listing means and when an entry is removed.
 ### Web
 
 - [Easy Calendar](https://github.com/LibreCourseUY/easy-calendar): A lightweight year-view calendar web app built with Preact and Vite. Load your events via a JSON environment variable and view them month by month. ([@emiliano-go](https://github.com/emiliano-go))
+- [gitsion](https://github.com/Kevin-Ramirez127/gitsion): View on dashboard github repositories ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
 - [libreblog](https://github.com/LibreCourseUY/libreblog): Blog for LibreCourseUY built with Hugo and auto-deployed via GitHub Actions.
 - [mapcreator](https://mapcreator.emiliano-go.com/): Interactive multi-floor building map editor with A* pathfinding. Paint tile-based floor plans, define vertical connections and visualize shortest paths across floors. ([@emiliano-go](https://github.com/emiliano-go))
 - [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.

@@ -2,7 +2,7 @@
   "name": "Fission",
   "description": "Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference.",
   "category": "Security",
-  "tags": ["security"],
+  "tags": ["security", "luau"],
   "language": ["C++", "Luau"],
   "maintainers": ["@SecondNewtonLaw"],
   "license": "MIT",

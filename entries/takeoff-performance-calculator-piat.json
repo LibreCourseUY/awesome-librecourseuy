@@ -1,0 +1,11 @@
+{
+  "name": "Takeoff Performance Calculator - Pipistrel ALPHA Trainer",
+  "url": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat",
+  "description": "Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons.",
+  "category": "Web",
+  "tags": ["javascript", "offline"],
+  "language": ["HTML", "JavaScript", "CSS"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "checkcorruptedimages",
+  "url": "https://github.com/carlosplanchon/checkcorruptedimages",
+  "description": "Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes.",
+  "category": "CLI Tools",
+  "tags": ["python", "cli"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/checkcorruptedimages"
+}

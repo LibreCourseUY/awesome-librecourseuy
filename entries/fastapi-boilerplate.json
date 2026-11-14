@@ -1,0 +1,11 @@
+{
+  "name": "FastAPI Boilerplate",
+  "url": "https://github.com/benavlabs/FastAPI-boilerplate",
+  "description": "Async FastAPI application foundation with authentication, CRUD, background jobs, caching and PostgreSQL.",
+  "category": "Developer Tools",
+  "tags": ["fastapi", "python", "postgres", "sqlalchemy", "docker"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/FastAPI-boilerplate"
+}

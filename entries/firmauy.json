@@ -1,0 +1,11 @@
+{
+  "name": "FirmaUY",
+  "url": "https://github.com/carlosplanchon/firmauy",
+  "description": "Sign and verify PDF, XML and arbitrary files locally with the Uruguayan electronic identity card.",
+  "category": "Security",
+  "tags": ["security", "privacy", "offline"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carlosplanchon/firmauy"
+}

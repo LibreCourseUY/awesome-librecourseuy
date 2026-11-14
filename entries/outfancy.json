@@ -1,0 +1,11 @@
+{
+  "name": "outfancy",
+  "url": "https://github.com/carlosplanchon/outfancy",
+  "description": "Python library for rendering formatted tables and line charts in the terminal.",
+  "category": "Libraries",
+  "tags": ["python", "cli", "data"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/outfancy"
+}

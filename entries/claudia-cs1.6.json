@@ -1,0 +1,11 @@
+{
+  "name": "ClaudIA-CS1.6",
+  "url": "https://github.com/NicolasBentancur/ClaudIA-CS1.6",
+  "description": "Counter-Strike 1.6 plugin with AI chat, accounts, economy, jobs, casino games, chess and voice radio.",
+  "category": "Games",
+  "tags": ["game"],
+  "language": ["PHP", "Pawn"],
+  "maintainers": ["@NicolasBentancur"],
+  "license": "MIT",
+  "repository": "https://github.com/NicolasBentancur/ClaudIA-CS1.6"
+}

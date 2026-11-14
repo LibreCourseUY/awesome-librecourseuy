@@ -1,0 +1,11 @@
+{
+  "name": "wifireconnect",
+  "url": "https://github.com/carlosplanchon/wifireconnect",
+  "description": "Linux network watchdog that diagnoses connectivity failures and recovers Wi-Fi connections through iwd.",
+  "category": "Automation",
+  "tags": ["linux", "wifi", "automation"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/wifireconnect"
+}

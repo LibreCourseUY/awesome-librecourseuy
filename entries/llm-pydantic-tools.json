@@ -1,0 +1,11 @@
+{
+  "name": "LLM Pydantic Tools",
+  "url": "https://github.com/carlosplanchon/llm-pydantic-tools",
+  "description": "Convert Pydantic models and JSON schemas into function-calling tools for OpenAI, Anthropic and Gemini, with argument validation.",
+  "category": "Libraries",
+  "tags": ["python", "pydantic"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/llm-pydantic-tools"
+}

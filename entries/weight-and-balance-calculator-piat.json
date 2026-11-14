@@ -1,0 +1,11 @@
+{
+  "name": "Weight and Balance Calculator - Pipistrel ALPHA Trainer",
+  "url": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat",
+  "description": "Educational browser-based weight and balance calculator for the Pipistrel ALPHA Trainer, with fuel burn and center-of-gravity checks.",
+  "category": "Web",
+  "tags": ["javascript", "offline"],
+  "language": ["HTML", "JavaScript", "CSS"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat"
+}

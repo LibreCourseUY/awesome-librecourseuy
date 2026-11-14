@@ -1,0 +1,11 @@
+{
+  "name": "measurevolume",
+  "url": "https://github.com/carlosplanchon/measurevolume",
+  "description": "Estimate market-taker activity from cryptocurrency order-book snapshots by measuring visible depth depletion.",
+  "category": "Data & Analytics",
+  "tags": ["data", "python"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/measurevolume"
+}

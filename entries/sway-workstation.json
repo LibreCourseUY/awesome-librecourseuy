@@ -1,0 +1,11 @@
+{
+  "name": "sway-workstation",
+  "url": "https://github.com/carlosplanchon/sway-workstation",
+  "description": "Reproducible Arch Linux workstation setup with Sway, Waybar, Stow-managed dotfiles and hardware detection.",
+  "category": "Desktop",
+  "tags": ["arch-linux", "linux", "automation"],
+  "language": ["Shell"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/sway-workstation"
+}

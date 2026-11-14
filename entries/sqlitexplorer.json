@@ -1,0 +1,11 @@
+{
+  "name": "sqlitexplorer",
+  "url": "https://github.com/carlosplanchon/sqlitexplorer",
+  "description": "CLI for exploring SQLite databases, inspecting schemas, querying and charting data, and importing or exporting records.",
+  "category": "CLI Tools",
+  "tags": ["sqlite", "python", "cli", "data"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/sqlitexplorer"
+}

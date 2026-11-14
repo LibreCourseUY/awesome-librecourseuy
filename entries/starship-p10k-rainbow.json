@@ -1,0 +1,11 @@
+{
+  "name": "starship-p10k-rainbow",
+  "url": "https://github.com/carlosplanchon/starship-p10k-rainbow",
+  "description": "Starship prompt preset that recreates the Powerlevel10k rainbow style across supported shells.",
+  "category": "Developer Tools",
+  "tags": ["cli"],
+  "language": ["Shell"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/starship-p10k-rainbow"
+}

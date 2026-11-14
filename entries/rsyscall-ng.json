@@ -1,0 +1,11 @@
+{
+  "name": "rsyscall-ng",
+  "url": "https://github.com/carlosplanchon/rsyscall-ng",
+  "description": "Modernized rsyscall for controlling local and remote Linux processes from Python, with a Rust native implementation.",
+  "category": "Libraries",
+  "tags": ["linux", "python", "rust"],
+  "language": ["Python", "Rust"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/rsyscall-ng"
+}

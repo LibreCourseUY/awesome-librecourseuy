@@ -1,0 +1,11 @@
+{
+  "name": "worldclock-tty",
+  "url": "https://github.com/carlosplanchon/worldclock-tty",
+  "description": "Terminal-based world clock that displays multiple time zones in real time.",
+  "category": "CLI Tools",
+  "tags": ["cli", "python"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "MIT",
+  "repository": "https://github.com/carlosplanchon/worldclock-tty"
+}

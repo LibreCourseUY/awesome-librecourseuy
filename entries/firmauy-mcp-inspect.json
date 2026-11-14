@@ -1,0 +1,11 @@
+{
+  "name": "firmauy-mcp-inspect",
+  "url": "https://github.com/carlosplanchon/firmauy-mcp-inspect",
+  "description": "Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY.",
+  "category": "Security",
+  "tags": ["mcp", "security", "privacy", "offline"],
+  "language": ["Python"],
+  "maintainers": ["@carlosplanchon"],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/carlosplanchon/firmauy-mcp-inspect"
+}

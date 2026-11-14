@@ -127,6 +127,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/ClaudIA",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -258,6 +259,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/wifireconnect",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -320,6 +322,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/checkcorruptedimages",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -341,6 +344,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/deblotch",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -431,6 +435,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/sqlitexplorer",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -452,6 +457,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/worldclock-tty",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -473,6 +479,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/zsh-classic-stack",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -584,6 +591,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/measurevolume",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -671,6 +679,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/sway-workstation",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -764,6 +773,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/benavlabs/FastAPI-boilerplate",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -944,6 +954,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/starship-p10k-rainbow",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1111,6 +1122,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/NicolasBentancur/ClaudIA-CS1.6",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1197,6 +1209,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/gencedula",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1219,6 +1232,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/ifpeek",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1260,6 +1274,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/llm-pydantic-tools",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1282,6 +1297,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/outfancy",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1303,6 +1319,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/parse-broken-json",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1325,6 +1342,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/plotilleresample",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1390,6 +1408,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/rsyscall-ng",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1474,6 +1493,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/tokenizesentences",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1497,6 +1517,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/xmlstreamer",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1621,6 +1642,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/firmauy",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1644,6 +1666,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/firmauy-mcp-inspect",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1762,6 +1785,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1850,6 +1874,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     }

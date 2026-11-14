@@ -108,6 +108,29 @@
       "open_source": true
     },
     {
+      "name": "ClaudIA",
+      "url": "https://github.com/gauchitodev/ClaudIA",
+      "description": "WhatsApp bot for Uruguayan groups with AI conversation, games, economy, moderation, memory and autonomous interactions.",
+      "category": "Automation",
+      "tags": [
+        "whatsapp",
+        "automation",
+        "javascript",
+        "game"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/ClaudIA",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "heard",
       "url": "https://github.com/emiliano-go/heard",
       "description": "Voice-controlled tooling daemon for Linux using Needle.",
@@ -217,6 +240,28 @@
       "open_source": true
     },
     {
+      "name": "wifireconnect",
+      "url": "https://github.com/carlosplanchon/wifireconnect",
+      "description": "Linux network watchdog that diagnoses connectivity failures and recovers Wi-Fi connections through iwd.",
+      "category": "Automation",
+      "tags": [
+        "linux",
+        "wifi",
+        "automation"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/wifireconnect",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "moodleTweaks",
       "url": "https://github.com/LibreCourseUY/moodleTweaks",
       "description": "Extensión de navegador que unifica el estilo visual de Moodle con modo oscuro automático, escala tipográfica y barra de próximas entregas.",
@@ -234,6 +279,48 @@
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/moodleTweaks",
       "relationship": "official",
+      "open_source": true
+    },
+    {
+      "name": "checkcorruptedimages",
+      "url": "https://github.com/carlosplanchon/checkcorruptedimages",
+      "description": "Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes.",
+      "category": "CLI Tools",
+      "tags": [
+        "python",
+        "cli"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/checkcorruptedimages",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "deblotch",
+      "url": "https://github.com/carlosplanchon/deblotch",
+      "description": "Python API and CLI for removing color blotches and unwanted gradients from flat illustrations while preserving edges.",
+      "category": "CLI Tools",
+      "tags": [
+        "python",
+        "cli"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "Apache-2.0",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/deblotch",
+      "relationship": "community",
       "open_source": true
     },
     {
@@ -300,6 +387,71 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/smclipy",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "sqlitexplorer",
+      "url": "https://github.com/carlosplanchon/sqlitexplorer",
+      "description": "CLI for exploring SQLite databases, inspecting schemas, querying and charting data, and importing or exporting records.",
+      "category": "CLI Tools",
+      "tags": [
+        "sqlite",
+        "python",
+        "cli",
+        "data"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/sqlitexplorer",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "worldclock-tty",
+      "url": "https://github.com/carlosplanchon/worldclock-tty",
+      "description": "Terminal-based world clock that displays multiple time zones in real time.",
+      "category": "CLI Tools",
+      "tags": [
+        "cli",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/worldclock-tty",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "zsh-classic-stack",
+      "url": "https://github.com/carlosplanchon/zsh-classic-stack",
+      "description": "Diagnose and configure a Zsh terminal stack or migrate from Oh My Zsh and Powerlevel10k to a complete shell profile.",
+      "category": "CLI Tools",
+      "tags": [
+        "cli",
+        "automation"
+      ],
+      "language": [
+        "Shell"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/zsh-classic-stack",
       "relationship": "community",
       "open_source": true
     },
@@ -394,6 +546,27 @@
       "open_source": true
     },
     {
+      "name": "measurevolume",
+      "url": "https://github.com/carlosplanchon/measurevolume",
+      "description": "Estimate market-taker activity from cryptocurrency order-book snapshots by measuring visible depth depletion.",
+      "category": "Data & Analytics",
+      "tags": [
+        "data",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/measurevolume",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "rypipe",
       "url": "https://rypipe.emiliano-go.com/",
       "description": "Format- and source-agnostic ingestion framework: a common execution runtime for turning record-oriented data sources into typed columnar data. Rust core, Python bindings.",
@@ -455,6 +628,28 @@
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/quick-bitwarden",
       "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "sway-workstation",
+      "url": "https://github.com/carlosplanchon/sway-workstation",
+      "description": "Reproducible Arch Linux workstation setup with Sway, Waybar, Stow-managed dotfiles and hardware detection.",
+      "category": "Desktop",
+      "tags": [
+        "arch-linux",
+        "linux",
+        "automation"
+      ],
+      "language": [
+        "Shell"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/sway-workstation",
       "relationship": "community",
       "open_source": true
     },
@@ -524,6 +719,30 @@
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/enodia",
       "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "FastAPI Boilerplate",
+      "url": "https://github.com/benavlabs/FastAPI-boilerplate",
+      "description": "Async FastAPI application foundation with authentication, CRUD, background jobs, caching and PostgreSQL.",
+      "category": "Developer Tools",
+      "tags": [
+        "fastapi",
+        "python",
+        "postgres",
+        "sqlalchemy",
+        "docker"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/FastAPI-boilerplate",
       "relationship": "community",
       "open_source": true
     },
@@ -688,6 +907,26 @@
       "open_source": true
     },
     {
+      "name": "starship-p10k-rainbow",
+      "url": "https://github.com/carlosplanchon/starship-p10k-rainbow",
+      "description": "Starship prompt preset that recreates the Powerlevel10k rainbow style across supported shells.",
+      "category": "Developer Tools",
+      "tags": [
+        "cli"
+      ],
+      "language": [
+        "Shell"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/starship-p10k-rainbow",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "tornet",
       "url": "https://github.com/netaru3/tornet",
       "description": "is hydra whit rotation ip for each N petitions.",
@@ -834,6 +1073,27 @@
       "open_source": true
     },
     {
+      "name": "ClaudIA-CS1.6",
+      "url": "https://github.com/NicolasBentancur/ClaudIA-CS1.6",
+      "description": "Counter-Strike 1.6 plugin with AI chat, accounts, economy, jobs, casino games, chess and voice radio.",
+      "category": "Games",
+      "tags": [
+        "game"
+      ],
+      "language": [
+        "PHP",
+        "Pawn"
+      ],
+      "maintainers": [
+        "@NicolasBentancur"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/NicolasBentancur/ClaudIA-CS1.6",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "LibreGameUy",
       "url": "https://github.com/CyberSpora/LibreGameUy",
       "description": "A competitive multiplayer game set in the suburbs of Montevideo",
@@ -899,6 +1159,49 @@
       "open_source": true
     },
     {
+      "name": "gencedula",
+      "url": "https://github.com/carlosplanchon/gencedula",
+      "description": "Generate checksum-valid Uruguayan identity document numbers and verify their check digits.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "offline"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/gencedula",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "ifpeek",
+      "url": "https://github.com/carlosplanchon/ifpeek",
+      "description": "Inspect Linux network interfaces, Wi-Fi state, routes, DNS and network events from Python.",
+      "category": "Libraries",
+      "tags": [
+        "linux",
+        "wifi",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/ifpeek",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "lambda-compiler",
       "url": "https://github.com/emiliano-go/lambda-compiler",
       "description": "Compile Python lambdas into declarative filter specs via bytecode analysis.",
@@ -915,6 +1218,92 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/lambda-compiler",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "LLM Pydantic Tools",
+      "url": "https://github.com/carlosplanchon/llm-pydantic-tools",
+      "description": "Convert Pydantic models and JSON schemas into function-calling tools for OpenAI, Anthropic and Gemini, with argument validation.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "pydantic"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/llm-pydantic-tools",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "outfancy",
+      "url": "https://github.com/carlosplanchon/outfancy",
+      "description": "Python library for rendering formatted tables and line charts in the terminal.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "cli",
+        "data"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/outfancy",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "parse-broken-json",
+      "url": "https://github.com/carlosplanchon/parse-broken-json",
+      "description": "Recover malformed or truncated JSON, including streamed LLM output, with explicit reporting of repairs.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "data"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/parse-broken-json",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "plotilleresample",
+      "url": "https://github.com/carlosplanchon/plotilleresample",
+      "description": "Resample datasets for Plotille terminal plots using stride, min/max, LTTB and MinMaxLTTB strategies.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "data",
+        "cli"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/plotilleresample",
       "relationship": "community",
       "open_source": true
     },
@@ -961,6 +1350,29 @@
       "open_source": true
     },
     {
+      "name": "rsyscall-ng",
+      "url": "https://github.com/carlosplanchon/rsyscall-ng",
+      "description": "Modernized rsyscall for controlling local and remote Linux processes from Python, with a Rust native implementation.",
+      "category": "Libraries",
+      "tags": [
+        "linux",
+        "python",
+        "rust"
+      ],
+      "language": [
+        "Python",
+        "Rust"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/rsyscall-ng",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "schemap",
       "url": "https://schemap.emiliano-go.com/",
       "description": "Automatic Pydantic schemas for SQLAlchemy models.",
@@ -1000,6 +1412,50 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/tagurl",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "tokenizesentences",
+      "url": "https://github.com/carlosplanchon/tokenizesentences",
+      "description": "Dependency-free Python tokenizer for splitting English text into sentences and locating sentence spans.",
+      "category": "Libraries",
+      "tags": [
+        "python",
+        "nlp"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/tokenizesentences",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "xmlstreamer",
+      "url": "https://github.com/carlosplanchon/xmlstreamer",
+      "description": "Stream large XML feeds with bounded memory, decompression, encoding detection and explicit handling of partial failures.",
+      "category": "Libraries",
+      "tags": [
+        "xml",
+        "streaming",
+        "python",
+        "etl"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/xmlstreamer",
       "relationship": "community",
       "open_source": true
     },
@@ -1106,6 +1562,51 @@
       "open_source": true
     },
     {
+      "name": "FirmaUY",
+      "url": "https://github.com/carlosplanchon/firmauy",
+      "description": "Sign and verify PDF, XML and arbitrary files locally with the Uruguayan electronic identity card.",
+      "category": "Security",
+      "tags": [
+        "security",
+        "privacy",
+        "offline"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "Apache-2.0",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/firmauy",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "firmauy-mcp-inspect",
+      "url": "https://github.com/carlosplanchon/firmauy-mcp-inspect",
+      "description": "Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY.",
+      "category": "Security",
+      "tags": [
+        "mcp",
+        "security",
+        "privacy",
+        "offline"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "Apache-2.0",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/firmauy-mcp-inspect",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "Easy Calendar",
       "url": "https://github.com/LibreCourseUY/easy-calendar",
       "description": "A lightweight year-view calendar web app built with Preact and Vite. Load your events via a JSON environment variable and view them month by month.",
@@ -1201,6 +1702,29 @@
       "open_source": true
     },
     {
+      "name": "Takeoff Performance Calculator - Pipistrel ALPHA Trainer",
+      "url": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat",
+      "description": "Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons.",
+      "category": "Web",
+      "tags": [
+        "javascript",
+        "offline"
+      ],
+      "language": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "Apache-2.0",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "TrustSight Feed",
       "url": "https://watcher.trustsight.org/",
       "description": "Searchable feed of TrustSight AUR watcher alerts.",
@@ -1263,6 +1787,29 @@
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/urumap",
       "relationship": "official",
+      "open_source": true
+    },
+    {
+      "name": "Weight and Balance Calculator - Pipistrel ALPHA Trainer",
+      "url": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat",
+      "description": "Educational browser-based weight and balance calculator for the Pipistrel ALPHA Trainer, with fuel burn and center-of-gravity checks.",
+      "category": "Web",
+      "tags": [
+        "javascript",
+        "offline"
+      ],
+      "language": [
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "maintainers": [
+        "@carlosplanchon"
+      ],
+      "license": "Apache-2.0",
+      "commercial": false,
+      "repository": "https://github.com/carlosplanchon/weight-and-balance-calculator-piat",
+      "relationship": "community",
       "open_source": true
     }
   ]

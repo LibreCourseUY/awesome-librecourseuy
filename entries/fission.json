@@ -1,0 +1,11 @@
+{
+  "name": "Fission",
+  "description": "Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference.",
+  "category": "Security",
+  "tags": ["security"],
+  "language": ["C++", "Luau"],
+  "maintainers": ["@SecondNewtonLaw"],
+  "license": "MIT",
+  "repository": "https://github.com/SecondNewtonLaw/Fission",
+  "open_to_contributions": true
+}

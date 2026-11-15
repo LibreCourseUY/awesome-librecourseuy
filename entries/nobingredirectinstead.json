@@ -1,0 +1,11 @@
+{
+  "name": "NoBingRedirectInstead",
+  "url": "https://github.com/joaquinlarroca/NoBingRedirectInstead",
+  "description": "Firefox extension that redirects Bing searches and pages to a configurable search engine or custom URL",
+  "category": "Browser Extensions",
+  "tags": ["firefox", "javascript"],
+  "language": ["JavaScript", "CSS"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/joaquinlarroca/NoBingRedirectInstead"
+}

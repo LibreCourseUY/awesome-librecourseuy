@@ -1,0 +1,11 @@
+{
+  "name": "BT_Keys_Importer",
+  "url": "https://github.com/joaquinlarroca/BT_Keys_Importer",
+  "description": "Rust CLI that imports Bluetooth pairing keys from Windows into BlueZ to preserve device pairing across Windows and Linux dual boot",
+  "category": "CLI Tools",
+  "tags": ["rust", "cli", "linux"],
+  "language": ["Rust"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "MIT",
+  "repository": "https://github.com/joaquinlarroca/BT_Keys_Importer"
+}

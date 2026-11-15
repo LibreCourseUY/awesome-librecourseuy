@@ -1,0 +1,11 @@
+{
+  "name": "PizzaJS",
+  "url": "https://github.com/joaquinlarroca/pizzajs",
+  "description": "JavaScript game framework for HTML Canvas with input handling, sprites, collisions, sound and optional add-ons",
+  "category": "Libraries",
+  "tags": ["game", "javascript"],
+  "language": ["JavaScript"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "MIT",
+  "repository": "https://github.com/joaquinlarroca/pizzajs"
+}

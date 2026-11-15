@@ -1,0 +1,11 @@
+{
+  "name": "PizzaJS Particle Creator",
+  "url": "https://github.com/joaquinlarroca/PizzaJS-particle-creator",
+  "description": "Visual particle effect editor for PizzaJS with adjustable particle parameters, live previews and generated code copying",
+  "category": "Developer Tools",
+  "tags": ["game", "javascript"],
+  "language": ["JavaScript"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/joaquinlarroca/PizzaJS-particle-creator"
+}

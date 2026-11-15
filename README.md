@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-97 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+103 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -76,7 +76,11 @@ explains what listing means and when an entry is removed.
 ### Libraries
 
 - [acrresolv](https://github.com/emiliano-go/acrresolv): Hybrid acronym resolver: rules + lookup + ML. 95.5% accuracy on unseen data, <1ms inference. ([@emiliano-go](https://github.com/emiliano-go))
+- [ClientAI](https://github.com/benavlabs/clientai): Unified Python client for AI providers with streaming, structured output validation, tools and agent workflows ([@igorbenav](https://github.com/igorbenav))
+- [crudauth](https://github.com/benavlabs/crudauth): Authentication library for FastAPI with cookie sessions, JWT, OAuth, two-factor authentication and email verification flows ([@igorbenav](https://github.com/igorbenav))
 - [easeo](https://easeo.emiliano-go.com/): Deterministic SEO metadata library for content platforms: canonical URLs, titles, robots, Open Graph, Twitter Cards and JSON-LD from content entities. One Rust core with Python, Node.js and Rust APIs. ([@emiliano-go](https://github.com/emiliano-go))
+- [FastCRUD](https://github.com/benavlabs/fastcrud): Async CRUD operations and automatic endpoint creation for FastAPI, with filtering, joins, sorting and pagination ([@igorbenav](https://github.com/igorbenav))
+- [FastroAI](https://github.com/benavlabs/fastroai): AI orchestration library built on PydanticAI with cost tracking, multi-step pipelines and tool timeout, retry and failure handling ([@igorbenav](https://github.com/igorbenav))
 - [gencedula](https://github.com/carlosplanchon/gencedula): Generate checksum-valid Uruguayan identity document numbers and verify their check digits. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [ifpeek](https://github.com/carlosplanchon/ifpeek): Inspect Linux network interfaces, Wi-Fi state, routes, DNS and network events from Python. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [lambda-compiler](https://github.com/emiliano-go/lambda-compiler): Compile Python lambdas into declarative filter specs via bytecode analysis. ([@emiliano-go](https://github.com/emiliano-go))
@@ -99,6 +103,7 @@ explains what listing means and when an entry is removed.
 
 - [Arch-Magic](https://github.com/gauchitodev/Arch-Magic): Scripts and tools for running Arch Linux ARM on a RedMagic 10 Pro, with chroot and proot setup, hardware controls and GPU support ([@gauchitodev](https://github.com/gauchitodev))
 - [ClickVault](https://clickvault.emiliano-go.com/): HashiCorp Vault database secrets engine plugin for ClickHouse. ([@emiliano-go](https://github.com/emiliano-go))
+- [CRUDAdmin](https://github.com/benavlabs/crudadmin): Admin interface generator for FastAPI and SQLAlchemy with authentication, roles, event tracking and audit logs ([@igorbenav](https://github.com/igorbenav))
 - [DBWarden](https://dbwarden.org/): Declarative database migration system for Python/SQLAlchemy projects: your models are the source code, SQL is the output. ([@emiliano-go](https://github.com/emiliano-go))
 - [Enodia](https://github.com/carlosplanchon/enodia): Wardriving on foot, without GPS or internet. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [FastAPI Boilerplate](https://github.com/benavlabs/FastAPI-boilerplate): Async FastAPI application foundation with authentication, CRUD, background jobs, caching and PostgreSQL. ([@igorbenav](https://github.com/igorbenav))
@@ -145,6 +150,7 @@ explains what listing means and when an entry is removed.
 - [firmauy-mcp-inspect](https://github.com/carlosplanchon/firmauy-mcp-inspect): Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [Fission](https://github.com/SecondNewtonLaw/Fission): Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
 - [SharpHide](https://github.com/SecondNewtonLaw/SharpHide): C# obfuscator for .NET assemblies, being rebuilt as a continuation of an older project. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
+- [vibe-check](https://github.com/benavlabs/vibe-check): Security scanner and audit checklists for AI-generated web applications, covering exposed files, headers, CORS, cookies and debug endpoints ([@igorbenav](https://github.com/igorbenav))
 
 ### Automation
 

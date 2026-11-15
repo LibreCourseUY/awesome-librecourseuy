@@ -798,6 +798,29 @@
       "open_source": true
     },
     {
+      "name": "CRUDAdmin",
+      "url": "https://github.com/benavlabs/crudadmin",
+      "description": "Admin interface generator for FastAPI and SQLAlchemy with authentication, roles, event tracking and audit logs",
+      "category": "Developer Tools",
+      "tags": [
+        "fastapi",
+        "python",
+        "sqlalchemy",
+        "security"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/crudadmin",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "DBWarden",
       "url": "https://dbwarden.org/",
       "description": "Declarative database migration system for Python/SQLAlchemy projects: your models are the source code, SQL is the output.",
@@ -1306,6 +1329,50 @@
       "open_source": true
     },
     {
+      "name": "ClientAI",
+      "url": "https://github.com/benavlabs/clientai",
+      "description": "Unified Python client for AI providers with streaming, structured output validation, tools and agent workflows",
+      "category": "Libraries",
+      "tags": [
+        "ai-agents",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/clientai",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "crudauth",
+      "url": "https://github.com/benavlabs/crudauth",
+      "description": "Authentication library for FastAPI with cookie sessions, JWT, OAuth, two-factor authentication and email verification flows",
+      "category": "Libraries",
+      "tags": [
+        "fastapi",
+        "python",
+        "security"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/crudauth",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "easeo",
       "url": "https://easeo.emiliano-go.com/",
       "description": "Deterministic SEO metadata library for content platforms: canonical URLs, titles, robots, Open Graph, Twitter Cards and JSON-LD from content entities. One Rust core with Python, Node.js and Rust APIs.",
@@ -1324,6 +1391,51 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/easeo",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "FastCRUD",
+      "url": "https://github.com/benavlabs/fastcrud",
+      "description": "Async CRUD operations and automatic endpoint creation for FastAPI, with filtering, joins, sorting and pagination",
+      "category": "Libraries",
+      "tags": [
+        "fastapi",
+        "python",
+        "sqlalchemy"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/fastcrud",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "FastroAI",
+      "url": "https://github.com/benavlabs/fastroai",
+      "description": "AI orchestration library built on PydanticAI with cost tracking, multi-step pipelines and tool timeout, retry and failure handling",
+      "category": "Libraries",
+      "tags": [
+        "ai-agents",
+        "python",
+        "pydantic"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/fastroai",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1914,6 +2026,29 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/SecondNewtonLaw/SharpHide",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "vibe-check",
+      "url": "https://github.com/benavlabs/vibe-check",
+      "description": "Security scanner and audit checklists for AI-generated web applications, covering exposed files, headers, CORS, cookies and debug endpoints",
+      "category": "Security",
+      "tags": [
+        "security",
+        "cli",
+        "python"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@igorbenav"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/benavlabs/vibe-check",
       "open_to_contributions": true,
       "relationship": "community",
       "open_source": true

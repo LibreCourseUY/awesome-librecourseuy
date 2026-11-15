@@ -1,0 +1,12 @@
+{
+  "name": "vibe-check",
+  "url": "https://github.com/benavlabs/vibe-check",
+  "description": "Security scanner and audit checklists for AI-generated web applications, covering exposed files, headers, CORS, cookies and debug endpoints",
+  "category": "Security",
+  "tags": ["security", "cli", "python"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/vibe-check",
+  "open_to_contributions": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "ClientAI",
+  "url": "https://github.com/benavlabs/clientai",
+  "description": "Unified Python client for AI providers with streaming, structured output validation, tools and agent workflows",
+  "category": "Libraries",
+  "tags": ["ai-agents", "python"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/clientai",
+  "open_to_contributions": true
+}

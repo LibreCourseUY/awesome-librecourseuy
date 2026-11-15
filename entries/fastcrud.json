@@ -1,0 +1,11 @@
+{
+  "name": "FastCRUD",
+  "url": "https://github.com/benavlabs/fastcrud",
+  "description": "Async CRUD operations and automatic endpoint creation for FastAPI, with filtering, joins, sorting and pagination",
+  "category": "Libraries",
+  "tags": ["fastapi", "python", "sqlalchemy"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/fastcrud"
+}

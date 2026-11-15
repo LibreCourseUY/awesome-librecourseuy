@@ -16,8 +16,10 @@ explains what listing means and when an entry is removed.
 <!-- ORGS:START -->
 - [LibreCourseUY](https://librecourse.uy/): Non-profit FOSS community growing the next generation of open source contributors in Latin America.
 - [Benav Labs](https://benav.io/): Transforming ideas into world class solutions.
+- [Cognitia Labs](https://cognitialabs.com/): Independent software lab based in Uruguay, building open-source tools for applied AI, software infrastructure and digital trust.
 - [DBWarden](https://dbwarden.org/): Home of DBWarden, a declarative database migration system for Python/SQLAlchemy.
 - [Keel Linux](https://keel-linux.github.io/): Declarative, layered, IPv6-first system-container appliances, compatible with TurnKey Linux appliances.
+- [Pop Solutions](https://pop.coop/): Brazilian digital cooperative working with open-source software, hosting, infrastructure and ERP solutions.
 <!-- ORGS:END -->
 
 ## Projects

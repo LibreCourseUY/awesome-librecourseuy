@@ -41,6 +41,14 @@
       "relationship": "community"
     },
     {
+      "name": "Cognitia Labs",
+      "url": "https://cognitialabs.com/",
+      "description": "Independent software lab based in Uruguay, building open-source tools for applied AI, software infrastructure and digital trust.",
+      "tags": [],
+      "repository": "https://github.com/cognitia-labs",
+      "relationship": "community"
+    },
+    {
       "name": "DBWarden",
       "url": "https://dbwarden.org/",
       "description": "Home of DBWarden, a declarative database migration system for Python/SQLAlchemy.",
@@ -68,6 +76,14 @@
         "light": "#005a9e",
         "dark": "#7dc0f5"
       },
+      "relationship": "community"
+    },
+    {
+      "name": "Pop Solutions",
+      "url": "https://pop.coop/",
+      "description": "Brazilian digital cooperative working with open-source software, hosting, infrastructure and ERP solutions.",
+      "tags": [],
+      "repository": "https://github.com/popsolutions",
       "relationship": "community"
     }
   ],

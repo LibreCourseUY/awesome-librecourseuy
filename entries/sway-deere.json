@@ -1,0 +1,11 @@
+{
+  "name": "sway-deere",
+  "url": "https://github.com/gauchitodev/sway-deere",
+  "description": "Sway desktop inspired by agricultural machinery displays, with a touch-friendly dashboard, movable widgets and system controls",
+  "category": "Desktop",
+  "tags": ["linux", "python", "javascript"],
+  "language": ["Python", "JavaScript", "Shell"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/sway-deere"
+}

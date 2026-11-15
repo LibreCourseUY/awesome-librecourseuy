@@ -1,0 +1,11 @@
+{
+  "name": "Velocidad Libre",
+  "url": "https://github.com/gauchitodev/velocidad-libre",
+  "description": "Offline Android speedometer with spoken speed announcements, trip history and support for six languages",
+  "category": "Mobile",
+  "tags": ["android", "geolocation", "offline", "privacy"],
+  "language": ["Java"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/velocidad-libre"
+}

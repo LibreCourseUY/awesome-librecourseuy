@@ -1,0 +1,11 @@
+{
+  "name": "ClaudIA-Minecraft",
+  "url": "https://github.com/gauchitodev/ClaudIA-Minecraft",
+  "description": "Minecraft Paper plugin and Node.js service bringing ClaudIA's AI conversation, shared music, trivia and UruCoins economy to game servers",
+  "category": "Games",
+  "tags": ["game", "automation", "javascript", "music"],
+  "language": ["Java", "JavaScript"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/ClaudIA-Minecraft"
+}

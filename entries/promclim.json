@@ -1,0 +1,11 @@
+{
+  "name": "PromClim",
+  "url": "https://github.com/gauchitodev/PromClim",
+  "description": "Local weather dashboard combining forecasts from multiple providers, including INUMET, with averages, source comparisons and forecast verification",
+  "category": "Web",
+  "tags": ["javascript", "data", "geolocation"],
+  "language": ["JavaScript"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/PromClim"
+}

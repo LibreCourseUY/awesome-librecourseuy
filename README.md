@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-103 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+109 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -58,10 +58,12 @@ explains what listing means and when an entry is removed.
 
 ### CLI Tools
 
+- [BT_Keys_Importer](https://github.com/joaquinlarroca/BT_Keys_Importer): Rust CLI that imports Bluetooth pairing keys from Windows into BlueZ to preserve device pairing across Windows and Linux dual boot ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [cedulauy-mrz-scan](https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan): Scan and parse the Machine Readable Zone (MRZ) of Uruguayan identity cards from photos or a live webcam feed. ([@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
 - [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages): Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [deblotch](https://github.com/carlosplanchon/deblotch): Python API and CLI for removing color blotches and unwanted gradients from flat illustrations while preserving edges. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [detrack](https://github.com/emiliano-go/detrack): Strip tracking parameters from URLs. Deterministically. Zero dependencies. ([@emiliano-go](https://github.com/emiliano-go))
+- [JRTFPAS](https://github.com/joaquinlarroca/JRTFPAS): Command-line wrappers for compiling and running Free Pascal source files with automatic cleanup on Linux and Windows through WSL ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [mysql-split-import](https://github.com/GerMP21/mysql-split-import): Command-line tool for splitting large MySQL and MariaDB dumps into chunks and importing them with resumable progress ([@GerMP21](https://github.com/GerMP21))
 - [neurafly](https://github.com/emiliano-go/neurafly): Real-time audio visualizer TUI: listens to whatever your PC is playing and renders neurons firing. No samples, no playback tricks. ([@emiliano-go](https://github.com/emiliano-go))
 - [smclipy](https://pypi.org/project/smclipy/): A Python script designed to streamline downloading, tagging, and organizing music from YouTube and SoundCloud. It allows you to batch-download audio, manually set metadata (including multiple artists, album, and cover art). ([@joaquinlarroca](https://github.com/joaquinlarroca))
@@ -72,6 +74,7 @@ explains what listing means and when an entry is removed.
 ### Browser Extensions
 
 - [moodleTweaks](https://github.com/LibreCourseUY/moodleTweaks): Extensión de navegador que unifica el estilo visual de Moodle con modo oscuro automático, escala tipográfica y barra de próximas entregas.
+- [NoBingRedirectInstead](https://github.com/joaquinlarroca/NoBingRedirectInstead): Firefox extension that redirects Bing searches and pages to a configurable search engine or custom URL ([@joaquinlarroca](https://github.com/joaquinlarroca))
 
 ### Libraries
 
@@ -85,8 +88,10 @@ explains what listing means and when an entry is removed.
 - [ifpeek](https://github.com/carlosplanchon/ifpeek): Inspect Linux network interfaces, Wi-Fi state, routes, DNS and network events from Python. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [lambda-compiler](https://github.com/emiliano-go/lambda-compiler): Compile Python lambdas into declarative filter specs via bytecode analysis. ([@emiliano-go](https://github.com/emiliano-go))
 - [LLM Pydantic Tools](https://github.com/carlosplanchon/llm-pydantic-tools): Convert Pydantic models and JSON schemas into function-calling tools for OpenAI, Anthropic and Gemini, with argument validation. ([@carlosplanchon](https://github.com/carlosplanchon))
+- [LurkJS](https://github.com/joaquinlarroca/LurkJS): TypeScript 2D game engine for HTML Canvas with entities, collisions, cameras, input handling and particle plugins ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [outfancy](https://github.com/carlosplanchon/outfancy): Python library for rendering formatted tables and line charts in the terminal. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [parse-broken-json](https://github.com/carlosplanchon/parse-broken-json): Recover malformed or truncated JSON, including streamed LLM output, with explicit reporting of repairs. ([@carlosplanchon](https://github.com/carlosplanchon))
+- [PizzaJS](https://github.com/joaquinlarroca/pizzajs): JavaScript game framework for HTML Canvas with input handling, sprites, collisions, sound and optional add-ons ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [plotilleresample](https://github.com/carlosplanchon/plotilleresample): Resample datasets for Plotille terminal plots using stride, min/max, LTTB and MinMaxLTTB strategies. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [r-modals](https://github.com/Kevin-Ramirez127/r-modals): Instant modals for Rust - one call pops a centered, borderless, searchable option picker (eframe/egui, X11 + Wayland). ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
 - [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React.
@@ -113,6 +118,7 @@ explains what listing means and when an entry is removed.
 - [laya-coding-decisions](https://github.com/emiliano-go/laya-coding-decisions): Training data and harness to turn Laya into a coding-agent judge for the hestia decision engine. ([@emiliano-go](https://github.com/emiliano-go))
 - [opencode-bgj](https://github.com/emiliano-go/opencode-bgj): Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background. ([@emiliano-go](https://github.com/emiliano-go))
 - [Panopticon](https://github.com/emiliano-go/panopticon): Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard. ([@emiliano-go](https://github.com/emiliano-go))
+- [PizzaJS Particle Creator](https://github.com/joaquinlarroca/PizzaJS-particle-creator): Visual particle effect editor for PizzaJS with adjustable particle parameters, live previews and generated code copying ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [RBG-Harness](https://github.com/emiliano-go/RBG-Harness): Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models. ([@emiliano-go](https://github.com/emiliano-go))
 - [rbxcs](https://github.com/SecondNewtonLaw/rbxcs): Work-in-progress C# to Luau transpiler for Roblox, with automatic binding generation at build time. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
 - [scripts](https://github.com/LibreCourseUY/scripts): A collection of community-contributed utility scripts, organized by programming language.

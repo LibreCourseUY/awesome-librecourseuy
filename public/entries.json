@@ -305,6 +305,50 @@
       "open_source": true
     },
     {
+      "name": "NoBingRedirectInstead",
+      "url": "https://github.com/joaquinlarroca/NoBingRedirectInstead",
+      "description": "Firefox extension that redirects Bing searches and pages to a configurable search engine or custom URL",
+      "category": "Browser Extensions",
+      "tags": [
+        "firefox",
+        "javascript"
+      ],
+      "language": [
+        "JavaScript",
+        "CSS"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/NoBingRedirectInstead",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "BT_Keys_Importer",
+      "url": "https://github.com/joaquinlarroca/BT_Keys_Importer",
+      "description": "Rust CLI that imports Bluetooth pairing keys from Windows into BlueZ to preserve device pairing across Windows and Linux dual boot",
+      "category": "CLI Tools",
+      "tags": [
+        "rust",
+        "cli",
+        "linux"
+      ],
+      "language": [
+        "Rust"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/BT_Keys_Importer",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "cedulauy-mrz-scan",
       "url": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
       "description": "Scan and parse the Machine Readable Zone (MRZ) of Uruguayan identity cards from photos or a live webcam feed.",
@@ -388,6 +432,29 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/detrack",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "JRTFPAS",
+      "url": "https://github.com/joaquinlarroca/JRTFPAS",
+      "description": "Command-line wrappers for compiling and running Free Pascal source files with automatic cleanup on Linux and Windows through WSL",
+      "category": "CLI Tools",
+      "tags": [
+        "cli",
+        "automation"
+      ],
+      "language": [
+        "Shell",
+        "Batchfile",
+        "Makefile"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/JRTFPAS",
       "relationship": "community",
       "open_source": true
     },
@@ -1015,6 +1082,27 @@
       "open_source": true
     },
     {
+      "name": "PizzaJS Particle Creator",
+      "url": "https://github.com/joaquinlarroca/PizzaJS-particle-creator",
+      "description": "Visual particle effect editor for PizzaJS with adjustable particle parameters, live previews and generated code copying",
+      "category": "Developer Tools",
+      "tags": [
+        "game",
+        "javascript"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/PizzaJS-particle-creator",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "RBG-Harness",
       "url": "https://github.com/emiliano-go/RBG-Harness",
       "description": "Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models.",
@@ -1527,6 +1615,28 @@
       "open_source": true
     },
     {
+      "name": "LurkJS",
+      "url": "https://github.com/joaquinlarroca/LurkJS",
+      "description": "TypeScript 2D game engine for HTML Canvas with entities, collisions, cameras, input handling and particle plugins",
+      "category": "Libraries",
+      "tags": [
+        "game",
+        "typescript",
+        "javascript"
+      ],
+      "language": [
+        "TypeScript"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/LurkJS",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "outfancy",
       "url": "https://github.com/carlosplanchon/outfancy",
       "description": "Python library for rendering formatted tables and line charts in the terminal.",
@@ -1568,6 +1678,27 @@
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/parse-broken-json",
       "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "PizzaJS",
+      "url": "https://github.com/joaquinlarroca/pizzajs",
+      "description": "JavaScript game framework for HTML Canvas with input handling, sprites, collisions, sound and optional add-ons",
+      "category": "Libraries",
+      "tags": [
+        "game",
+        "javascript"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@joaquinlarroca"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/joaquinlarroca/pizzajs",
       "relationship": "community",
       "open_source": true
     },

@@ -1,0 +1,11 @@
+{
+  "name": "Android SQLite Viewer",
+  "url": "https://github.com/martinezanthony/android-sqlite-viewer",
+  "description": "Read-only SQLite viewer for Android with table browsing, row filtering, recent files and CSV, TXT or JSON export",
+  "category": "Mobile",
+  "tags": ["android", "sqlite"],
+  "language": ["Kotlin"],
+  "maintainers": ["@martinezanthony"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/martinezanthony/android-sqlite-viewer"
+}

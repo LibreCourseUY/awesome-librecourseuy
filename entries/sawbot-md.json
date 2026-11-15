@@ -1,0 +1,11 @@
+{
+  "name": "SawBot-MD",
+  "url": "https://github.com/martinezanthony/SawBot-MD",
+  "description": "WhatsApp bot built on Baileys with group moderation, games, media downloads and sticker and audio conversion commands",
+  "category": "Automation",
+  "tags": ["whatsapp", "automation", "javascript", "game", "yt-dlp"],
+  "language": ["JavaScript"],
+  "maintainers": ["@martinezanthony"],
+  "license": "MIT",
+  "repository": "https://github.com/martinezanthony/SawBot-MD"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "QSlider",
+  "url": "https://github.com/martinezanthony/qslider",
+  "description": "Android app with configurable screen-edge sliders for quick brightness and media volume control across other apps",
+  "category": "Mobile",
+  "tags": ["android"],
+  "language": ["Kotlin"],
+  "maintainers": ["@martinezanthony"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/martinezanthony/qslider"
+}

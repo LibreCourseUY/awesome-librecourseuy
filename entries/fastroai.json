@@ -1,0 +1,12 @@
+{
+  "name": "FastroAI",
+  "url": "https://github.com/benavlabs/fastroai",
+  "description": "AI orchestration library built on PydanticAI with cost tracking, multi-step pipelines and tool timeout, retry and failure handling",
+  "category": "Libraries",
+  "tags": ["ai-agents", "python", "pydantic"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/fastroai",
+  "open_to_contributions": true
+}

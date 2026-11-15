@@ -1,0 +1,11 @@
+{
+  "name": "crudauth",
+  "url": "https://github.com/benavlabs/crudauth",
+  "description": "Authentication library for FastAPI with cookie sessions, JWT, OAuth, two-factor authentication and email verification flows",
+  "category": "Libraries",
+  "tags": ["fastapi", "python", "security"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/crudauth"
+}

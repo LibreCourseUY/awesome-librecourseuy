@@ -1,0 +1,11 @@
+{
+  "name": "CRUDAdmin",
+  "url": "https://github.com/benavlabs/crudadmin",
+  "description": "Admin interface generator for FastAPI and SQLAlchemy with authentication, roles, event tracking and audit logs",
+  "category": "Developer Tools",
+  "tags": ["fastapi", "python", "sqlalchemy", "security"],
+  "language": ["Python"],
+  "maintainers": ["@igorbenav"],
+  "license": "MIT",
+  "repository": "https://github.com/benavlabs/crudadmin"
+}

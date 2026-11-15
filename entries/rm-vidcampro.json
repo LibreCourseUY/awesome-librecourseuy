@@ -1,0 +1,11 @@
+{
+  "name": "RM-VidCamPro",
+  "url": "https://github.com/gauchitodev/RM-VidCamPro",
+  "description": "Android video camera for the RedMagic 10 Pro with lens switching during recording, stabilization and manual camera controls",
+  "category": "Mobile",
+  "tags": ["android", "offline", "privacy"],
+  "language": ["Java"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/RM-VidCamPro"
+}

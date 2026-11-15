@@ -1,0 +1,11 @@
+{
+  "name": "Arch-Magic",
+  "url": "https://github.com/gauchitodev/Arch-Magic",
+  "description": "Scripts and tools for running Arch Linux ARM on a RedMagic 10 Pro, with chroot and proot setup, hardware controls and GPU support",
+  "category": "Developer Tools",
+  "tags": ["android", "arch-linux", "linux", "automation"],
+  "language": ["Shell", "Python", "C"],
+  "maintainers": ["@gauchitodev"],
+  "license": "MIT",
+  "repository": "https://github.com/gauchitodev/Arch-Magic"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LurkJS",
+  "url": "https://github.com/joaquinlarroca/LurkJS",
+  "description": "TypeScript 2D game engine for HTML Canvas with entities, collisions, cameras, input handling and particle plugins",
+  "category": "Libraries",
+  "tags": ["game", "typescript", "javascript"],
+  "language": ["TypeScript"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "MIT",
+  "repository": "https://github.com/joaquinlarroca/LurkJS"
+}

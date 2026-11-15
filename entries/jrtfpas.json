@@ -1,0 +1,11 @@
+{
+  "name": "JRTFPAS",
+  "url": "https://github.com/joaquinlarroca/JRTFPAS",
+  "description": "Command-line wrappers for compiling and running Free Pascal source files with automatic cleanup on Linux and Windows through WSL",
+  "category": "CLI Tools",
+  "tags": ["cli", "automation"],
+  "language": ["Shell", "Batchfile", "Makefile"],
+  "maintainers": ["@joaquinlarroca"],
+  "license": "MIT",
+  "repository": "https://github.com/joaquinlarroca/JRTFPAS"
+}

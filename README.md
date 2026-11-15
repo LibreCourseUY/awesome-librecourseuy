@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-89 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+95 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -31,6 +31,7 @@ explains what listing means and when an entry is removed.
 - [mapcreator](https://mapcreator.emiliano-go.com/): Interactive multi-floor building map editor with A* pathfinding. Paint tile-based floor plans, define vertical connections and visualize shortest paths across floors. ([@emiliano-go](https://github.com/emiliano-go))
 - [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.
 - [Portfolio](https://github.com/emiliano-go/emiliano-gandini-outeda.github.io): Personal portfolio website. ([@emiliano-go](https://github.com/emiliano-go))
+- [PromClim](https://github.com/gauchitodev/PromClim): Local weather dashboard combining forecasts from multiple providers, including INUMET, with averages, source comparisons and forecast verification ([@gauchitodev](https://github.com/gauchitodev))
 - [Takeoff Performance Calculator - Pipistrel ALPHA Trainer](https://github.com/carlosplanchon/takeoff-performance-calculator-piat): Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [TrustSight Feed](https://watcher.trustsight.org/): Searchable feed of TrustSight AUR watcher alerts. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight Web](https://github.com/emiliano-go/trustsight-web): Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits. ([@emiliano-go](https://github.com/emiliano-go))
@@ -42,10 +43,16 @@ explains what listing means and when an entry is removed.
 - [audit-log-microservice](https://github.com/LibreCourseUY/audit-log-microservice): Microservice for centralized audit logging.
 - [UruAPI](https://github.com/LibreCourseUY/UruAPI): API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources.
 
+### Mobile
+
+- [RM-VidCamPro](https://github.com/gauchitodev/RM-VidCamPro): Android video camera for the RedMagic 10 Pro with lens switching during recording, stabilization and manual camera controls ([@gauchitodev](https://github.com/gauchitodev))
+- [Velocidad Libre](https://github.com/gauchitodev/velocidad-libre): Offline Android speedometer with spoken speed announcements, trip history and support for six languages ([@gauchitodev](https://github.com/gauchitodev))
+
 ### Desktop
 
 - [postal](https://github.com/emiliano-go/postal): A standalone native WhatsApp client that speaks the multi-device protocol directly: no webview, and history sync is a choice rather than a download. ([@emiliano-go](https://github.com/emiliano-go))
 - [quick-bitwarden](https://github.com/Kevin-Ramirez127/quick-bitwarden): A quick way to copy your Bitwarden passwords, with a fast r-modals picker. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
+- [sway-deere](https://github.com/gauchitodev/sway-deere): Sway desktop inspired by agricultural machinery displays, with a touch-friendly dashboard, movable widgets and system controls ([@gauchitodev](https://github.com/gauchitodev))
 - [sway-workstation](https://github.com/carlosplanchon/sway-workstation): Reproducible Arch Linux workstation setup with Sway, Waybar, Stow-managed dotfiles and hardware detection. ([@carlosplanchon](https://github.com/carlosplanchon))
 
 ### CLI Tools
@@ -88,6 +95,7 @@ explains what listing means and when an entry is removed.
 
 ### Developer Tools
 
+- [Arch-Magic](https://github.com/gauchitodev/Arch-Magic): Scripts and tools for running Arch Linux ARM on a RedMagic 10 Pro, with chroot and proot setup, hardware controls and GPU support ([@gauchitodev](https://github.com/gauchitodev))
 - [ClickVault](https://clickvault.emiliano-go.com/): HashiCorp Vault database secrets engine plugin for ClickHouse. ([@emiliano-go](https://github.com/emiliano-go))
 - [DBWarden](https://dbwarden.org/): Declarative database migration system for Python/SQLAlchemy projects: your models are the source code, SQL is the output. ([@emiliano-go](https://github.com/emiliano-go))
 - [Enodia](https://github.com/carlosplanchon/enodia): Wardriving on foot, without GPS or internet. ([@carlosplanchon](https://github.com/carlosplanchon))
@@ -125,6 +133,7 @@ explains what listing means and when an entry is removed.
 ### Games
 
 - [ClaudIA-CS1.6](https://github.com/NicolasBentancur/ClaudIA-CS1.6): Counter-Strike 1.6 plugin with AI chat, accounts, economy, jobs, casino games, chess and voice radio. ([@NicolasBentancur](https://github.com/NicolasBentancur))
+- [ClaudIA-Minecraft](https://github.com/gauchitodev/ClaudIA-Minecraft): Minecraft Paper plugin and Node.js service bringing ClaudIA's AI conversation, shared music, trivia and UruCoins economy to game servers ([@gauchitodev](https://github.com/gauchitodev))
 - [LibreGameUy](https://github.com/CyberSpora/LibreGameUy): A competitive multiplayer game set in the suburbs of Montevideo ([@CyberSpora](https://github.com/CyberSpora))
 
 ### Security

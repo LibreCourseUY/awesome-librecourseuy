@@ -661,6 +661,30 @@
       "open_source": true
     },
     {
+      "name": "sway-deere",
+      "url": "https://github.com/gauchitodev/sway-deere",
+      "description": "Sway desktop inspired by agricultural machinery displays, with a touch-friendly dashboard, movable widgets and system controls",
+      "category": "Desktop",
+      "tags": [
+        "linux",
+        "python",
+        "javascript"
+      ],
+      "language": [
+        "Python",
+        "JavaScript",
+        "Shell"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/sway-deere",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "sway-workstation",
       "url": "https://github.com/carlosplanchon/sway-workstation",
       "description": "Reproducible Arch Linux workstation setup with Sway, Waybar, Stow-managed dotfiles and hardware detection.",
@@ -680,6 +704,31 @@
       "commercial": false,
       "repository": "https://github.com/carlosplanchon/sway-workstation",
       "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Arch-Magic",
+      "url": "https://github.com/gauchitodev/Arch-Magic",
+      "description": "Scripts and tools for running Arch Linux ARM on a RedMagic 10 Pro, with chroot and proot setup, hardware controls and GPU support",
+      "category": "Developer Tools",
+      "tags": [
+        "android",
+        "arch-linux",
+        "linux",
+        "automation"
+      ],
+      "language": [
+        "Shell",
+        "Python",
+        "C"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/Arch-Magic",
       "relationship": "community",
       "open_source": true
     },
@@ -1147,6 +1196,30 @@
       "open_source": true
     },
     {
+      "name": "ClaudIA-Minecraft",
+      "url": "https://github.com/gauchitodev/ClaudIA-Minecraft",
+      "description": "Minecraft Paper plugin and Node.js service bringing ClaudIA's AI conversation, shared music, trivia and UruCoins economy to game servers",
+      "category": "Games",
+      "tags": [
+        "game",
+        "automation",
+        "javascript",
+        "music"
+      ],
+      "language": [
+        "Java",
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/ClaudIA-Minecraft",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "LibreGameUy",
       "url": "https://github.com/CyberSpora/LibreGameUy",
       "description": "A competitive multiplayer game set in the suburbs of Montevideo",
@@ -1589,6 +1662,51 @@
       "open_source": true
     },
     {
+      "name": "RM-VidCamPro",
+      "url": "https://github.com/gauchitodev/RM-VidCamPro",
+      "description": "Android video camera for the RedMagic 10 Pro with lens switching during recording, stabilization and manual camera controls",
+      "category": "Mobile",
+      "tags": [
+        "android",
+        "offline",
+        "privacy"
+      ],
+      "language": [
+        "Java"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/RM-VidCamPro",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Velocidad Libre",
+      "url": "https://github.com/gauchitodev/velocidad-libre",
+      "description": "Offline Android speedometer with spoken speed announcements, trip history and support for six languages",
+      "category": "Mobile",
+      "tags": [
+        "android",
+        "geolocation",
+        "offline",
+        "privacy"
+      ],
+      "language": [
+        "Java"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/velocidad-libre",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "Blue_tornet",
       "url": "https://github.com/netaru3/Blue_tornet",
       "description": "is a tor proxy whit isolate circuits",
@@ -1873,6 +1991,28 @@
       "license": "AGPL-3.0",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "PromClim",
+      "url": "https://github.com/gauchitodev/PromClim",
+      "description": "Local weather dashboard combining forecasts from multiple providers, including INUMET, with averages, source comparisons and forecast verification",
+      "category": "Web",
+      "tags": [
+        "javascript",
+        "data",
+        "geolocation"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@gauchitodev"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/gauchitodev/PromClim",
       "relationship": "community",
       "open_source": true
     },

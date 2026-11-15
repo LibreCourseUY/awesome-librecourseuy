@@ -1,0 +1,11 @@
+{
+  "name": "mysql-split-import",
+  "url": "https://github.com/GerMP21/mysql-split-import",
+  "description": "Command-line tool for splitting large MySQL and MariaDB dumps into chunks and importing them with resumable progress",
+  "category": "CLI Tools",
+  "tags": ["cli", "python", "data"],
+  "language": ["Python"],
+  "maintainers": ["@GerMP21"],
+  "license": "MIT",
+  "repository": "https://github.com/GerMP21/mysql-split-import"
+}

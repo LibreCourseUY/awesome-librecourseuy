@@ -218,6 +218,30 @@
       "open_source": true
     },
     {
+      "name": "SawBot-MD",
+      "url": "https://github.com/martinezanthony/SawBot-MD",
+      "description": "WhatsApp bot built on Baileys with group moderation, games, media downloads and sticker and audio conversion commands",
+      "category": "Automation",
+      "tags": [
+        "whatsapp",
+        "automation",
+        "javascript",
+        "game",
+        "yt-dlp"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@martinezanthony"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/martinezanthony/SawBot-MD",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "TrustSight Triage Agent",
       "url": "https://github.com/emiliano-go/trustsight-triage-agent",
       "description": "Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule.",
@@ -1948,6 +1972,47 @@
       "open_source": true
     },
     {
+      "name": "Android SQLite Viewer",
+      "url": "https://github.com/martinezanthony/android-sqlite-viewer",
+      "description": "Read-only SQLite viewer for Android with table browsing, row filtering, recent files and CSV, TXT or JSON export",
+      "category": "Mobile",
+      "tags": [
+        "android",
+        "sqlite"
+      ],
+      "language": [
+        "Kotlin"
+      ],
+      "maintainers": [
+        "@martinezanthony"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/martinezanthony/android-sqlite-viewer",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "QSlider",
+      "url": "https://github.com/martinezanthony/qslider",
+      "description": "Android app with configurable screen-edge sliders for quick brightness and media volume control across other apps",
+      "category": "Mobile",
+      "tags": [
+        "android"
+      ],
+      "language": [
+        "Kotlin"
+      ],
+      "maintainers": [
+        "@martinezanthony"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/martinezanthony/qslider",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "RM-VidCamPro",
       "url": "https://github.com/gauchitodev/RM-VidCamPro",
       "description": "Android video camera for the RedMagic 10 Pro with lens switching during recording, stabilization and manual camera controls",
@@ -1966,6 +2031,27 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/RM-VidCamPro",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "SpiralUPnP",
+      "url": "https://github.com/martinezanthony/spiralupnp",
+      "description": "UPnP and DLNA media server for Android with local-network browser access, folder sharing and incoming file transfers",
+      "category": "Mobile",
+      "tags": [
+        "android",
+        "streaming"
+      ],
+      "language": [
+        "Kotlin"
+      ],
+      "maintainers": [
+        "@martinezanthony"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/martinezanthony/spiralupnp",
       "relationship": "community",
       "open_source": true
     },

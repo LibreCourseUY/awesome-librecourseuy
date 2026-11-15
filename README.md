@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-109 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+113 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -46,7 +46,10 @@ explains what listing means and when an entry is removed.
 
 ### Mobile
 
+- [Android SQLite Viewer](https://github.com/martinezanthony/android-sqlite-viewer): Read-only SQLite viewer for Android with table browsing, row filtering, recent files and CSV, TXT or JSON export ([@martinezanthony](https://github.com/martinezanthony))
+- [QSlider](https://github.com/martinezanthony/qslider): Android app with configurable screen-edge sliders for quick brightness and media volume control across other apps ([@martinezanthony](https://github.com/martinezanthony))
 - [RM-VidCamPro](https://github.com/gauchitodev/RM-VidCamPro): Android video camera for the RedMagic 10 Pro with lens switching during recording, stabilization and manual camera controls ([@gauchitodev](https://github.com/gauchitodev))
+- [SpiralUPnP](https://github.com/martinezanthony/spiralupnp): UPnP and DLNA media server for Android with local-network browser access, folder sharing and incoming file transfers ([@martinezanthony](https://github.com/martinezanthony))
 - [Velocidad Libre](https://github.com/gauchitodev/velocidad-libre): Offline Android speedometer with spoken speed announcements, trip history and support for six languages ([@gauchitodev](https://github.com/gauchitodev))
 
 ### Desktop
@@ -164,6 +167,7 @@ explains what listing means and when an entry is removed.
 - [heard](https://github.com/emiliano-go/heard): Voice-controlled tooling daemon for Linux using Needle. ([@emiliano-go](https://github.com/emiliano-go))
 - [interferon](https://github.com/emiliano-go/interferon): Immune-inspired signaling for Docker stacks: containers broadcast typed failure and recovery signals so the fleet can respond like neighboring cells. ([@emiliano-go](https://github.com/emiliano-go))
 - [opencode-telegram](https://github.com/Kevin-Ramirez127/opencode-telegram): Go daemon that bridges OpenCode sessions to Telegram, notifying allowlisted chats about finished sessions, agent questions and permission requests. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
+- [SawBot-MD](https://github.com/martinezanthony/SawBot-MD): WhatsApp bot built on Baileys with group moderation, games, media downloads and sticker and audio conversion commands ([@martinezanthony](https://github.com/martinezanthony))
 - [TrustSight Triage Agent](https://github.com/emiliano-go/trustsight-triage-agent): Local-model triage agent for TrustSight watcher alerts that fetches AUR evidence through MCP and asks narrow, cited questions per fired rule. ([@emiliano-go](https://github.com/emiliano-go))
 - [vigil](https://github.com/emiliano-go/vigil): GitHub activity Prefect flow: scheduled ETL of your own contribution data. ([@emiliano-go](https://github.com/emiliano-go))
 - [wifireconnect](https://github.com/carlosplanchon/wifireconnect): Linux network watchdog that diagnoses connectivity failures and recovers Wi-Fi connections through iwd. ([@carlosplanchon](https://github.com/carlosplanchon))

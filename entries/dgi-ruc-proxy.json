@@ -1,0 +1,11 @@
+{
+  "name": "DGI RUC Consultation API Proxy",
+  "url": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client",
+  "description": "REST API proxy for Uruguay's DGI RUC consultation service, handling SOAP requests, certificate signing and JSON responses",
+  "category": "APIs",
+  "tags": ["javascript", "xml"],
+  "language": ["JavaScript"],
+  "maintainers": ["@GerMP21"],
+  "license": "MIT",
+  "repository": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client"
+}

@@ -87,6 +87,27 @@
       "open_source": true
     },
     {
+      "name": "DGI RUC Consultation API Proxy",
+      "url": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client",
+      "description": "REST API proxy for Uruguay's DGI RUC consultation service, handling SOAP requests, certificate signing and JSON responses",
+      "category": "APIs",
+      "tags": [
+        "javascript",
+        "xml"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@GerMP21"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "UruAPI",
       "url": "https://github.com/LibreCourseUY/UruAPI",
       "description": "API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources.",
@@ -367,6 +388,28 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/detrack",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "mysql-split-import",
+      "url": "https://github.com/GerMP21/mysql-split-import",
+      "description": "Command-line tool for splitting large MySQL and MariaDB dumps into chunks and importing them with resumable progress",
+      "category": "CLI Tools",
+      "tags": [
+        "cli",
+        "python",
+        "data"
+      ],
+      "language": [
+        "Python"
+      ],
+      "maintainers": [
+        "@GerMP21"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/GerMP21/mysql-split-import",
       "relationship": "community",
       "open_source": true
     },

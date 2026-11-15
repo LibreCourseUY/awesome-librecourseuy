@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-95 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+97 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -41,6 +41,7 @@ explains what listing means and when an entry is removed.
 ### APIs
 
 - [audit-log-microservice](https://github.com/LibreCourseUY/audit-log-microservice): Microservice for centralized audit logging.
+- [DGI RUC Consultation API Proxy](https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client): REST API proxy for Uruguay's DGI RUC consultation service, handling SOAP requests, certificate signing and JSON responses ([@GerMP21](https://github.com/GerMP21))
 - [UruAPI](https://github.com/LibreCourseUY/UruAPI): API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources.
 
 ### Mobile
@@ -61,6 +62,7 @@ explains what listing means and when an entry is removed.
 - [checkcorruptedimages](https://github.com/carlosplanchon/checkcorruptedimages): Detect corrupted images by fully decoding them with Pillow in crash-isolated worker processes. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [deblotch](https://github.com/carlosplanchon/deblotch): Python API and CLI for removing color blotches and unwanted gradients from flat illustrations while preserving edges. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [detrack](https://github.com/emiliano-go/detrack): Strip tracking parameters from URLs. Deterministically. Zero dependencies. ([@emiliano-go](https://github.com/emiliano-go))
+- [mysql-split-import](https://github.com/GerMP21/mysql-split-import): Command-line tool for splitting large MySQL and MariaDB dumps into chunks and importing them with resumable progress ([@GerMP21](https://github.com/GerMP21))
 - [neurafly](https://github.com/emiliano-go/neurafly): Real-time audio visualizer TUI: listens to whatever your PC is playing and renders neurons firing. No samples, no playback tricks. ([@emiliano-go](https://github.com/emiliano-go))
 - [smclipy](https://pypi.org/project/smclipy/): A Python script designed to streamline downloading, tagging, and organizing music from YouTube and SoundCloud. It allows you to batch-download audio, manually set metadata (including multiple artists, album, and cover art). ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [sqlitexplorer](https://github.com/carlosplanchon/sqlitexplorer): CLI for exploring SQLite databases, inspecting schemas, querying and charting data, and importing or exporting records. ([@carlosplanchon](https://github.com/carlosplanchon))

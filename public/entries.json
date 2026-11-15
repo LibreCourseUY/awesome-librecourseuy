@@ -2412,6 +2412,28 @@
       "open_source": true
     },
     {
+      "name": "Scorer",
+      "url": "https://scorerweb.netlify.app/",
+      "description": "Web scoreboard for tabletop games with player management, round scoring, configurable score limits and player elimination",
+      "category": "Web",
+      "tags": [
+        "react",
+        "javascript",
+        "game"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@tadeoolivera"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/tadeoolivera/scorer",
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "Takeoff Performance Calculator - Pipistrel ALPHA Trainer",
       "url": "https://github.com/carlosplanchon/takeoff-performance-calculator-piat",
       "description": "Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons.",

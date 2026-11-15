@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-113 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+114 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -32,6 +32,7 @@ explains what listing means and when an entry is removed.
 - [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.
 - [Portfolio](https://github.com/emiliano-go/emiliano-gandini-outeda.github.io): Personal portfolio website. ([@emiliano-go](https://github.com/emiliano-go))
 - [PromClim](https://github.com/gauchitodev/PromClim): Local weather dashboard combining forecasts from multiple providers, including INUMET, with averages, source comparisons and forecast verification ([@gauchitodev](https://github.com/gauchitodev))
+- [Scorer](https://scorerweb.netlify.app/): Web scoreboard for tabletop games with player management, round scoring, configurable score limits and player elimination ([@tadeoolivera](https://github.com/tadeoolivera))
 - [Takeoff Performance Calculator - Pipistrel ALPHA Trainer](https://github.com/carlosplanchon/takeoff-performance-calculator-piat): Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [TrustSight Feed](https://watcher.trustsight.org/): Searchable feed of TrustSight AUR watcher alerts. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight Web](https://github.com/emiliano-go/trustsight-web): Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits. ([@emiliano-go](https://github.com/emiliano-go))

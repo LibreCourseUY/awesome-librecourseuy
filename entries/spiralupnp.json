@@ -1,0 +1,11 @@
+{
+  "name": "SpiralUPnP",
+  "url": "https://github.com/martinezanthony/spiralupnp",
+  "description": "UPnP and DLNA media server for Android with local-network browser access, folder sharing and incoming file transfers",
+  "category": "Mobile",
+  "tags": ["android", "streaming"],
+  "language": ["Kotlin"],
+  "maintainers": ["@martinezanthony"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/martinezanthony/spiralupnp"
+}

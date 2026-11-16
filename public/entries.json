@@ -99,6 +99,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/audit-log-microservice",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -120,6 +121,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -141,6 +143,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/UruAPI",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -186,6 +189,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/heard",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -207,6 +211,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/interferon",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -230,6 +235,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/opencode-telegram",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -254,6 +260,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/martinezanthony/SawBot-MD",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -277,6 +284,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-triage-agent",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -298,6 +306,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/vigil",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -341,6 +350,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/moodleTweaks",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -363,6 +373,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/NoBingRedirectInstead",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -385,6 +396,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/BT_Keys_Importer",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -406,6 +418,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -472,6 +485,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/detrack",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -495,6 +509,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/JRTFPAS",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -517,6 +532,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/GerMP21/mysql-split-import",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -539,6 +555,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/neurafly",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -562,6 +579,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/smclipy",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -651,6 +669,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/ArgosUY",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -673,6 +692,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/autoimmune-disorder-prediction",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -697,6 +717,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/carpricepredictor",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -720,6 +741,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/crxml",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -765,6 +787,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/rypipe",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -786,6 +809,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/postal",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -798,7 +822,7 @@
         "linux"
       ],
       "language": [
-        "rust"
+        "Rust"
       ],
       "maintainers": [
         "@Kevin-Ramirez127"
@@ -831,6 +855,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/sway-deere",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -879,6 +904,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/Arch-Magic",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -901,6 +927,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/clickvault",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -924,6 +951,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/benavlabs/crudadmin",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -946,6 +974,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/dbwarden-org/dbwarden",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1017,6 +1046,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/hestia",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1030,12 +1060,13 @@
         "hydra"
       ],
       "language": [
-        "Typescript"
+        "TypeScript"
       ],
       "maintainers": [],
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/netaru3/hydra_in_typescript",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1056,6 +1087,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/Keel-Linux/keel",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1076,6 +1108,7 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/laya-coding-decisions",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1097,6 +1130,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/opencode-bgj",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1118,6 +1152,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/panopticon",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1139,6 +1174,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/PizzaJS-particle-creator",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1160,6 +1196,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/RBG-Harness",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1197,6 +1234,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/scripts",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -1231,12 +1269,13 @@
         "hydra"
       ],
       "language": [
-        "Typescript"
+        "TypeScript"
       ],
       "maintainers": [],
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/netaru3/tornet",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1259,6 +1298,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/totem",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1282,6 +1322,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1304,6 +1345,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-harness",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1326,6 +1368,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-lab",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1344,6 +1387,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/Cpp-Notes",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1364,6 +1408,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/Equinox",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1410,6 +1455,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/ClaudIA-Minecraft",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1453,6 +1499,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/acrresolv",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1497,6 +1544,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/benavlabs/crudauth",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1519,6 +1567,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/easeo",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1541,6 +1590,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/benavlabs/fastcrud",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1629,6 +1679,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/lambda-compiler",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1673,6 +1724,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/LurkJS",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1739,6 +1791,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/joaquinlarroca/pizzajs",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1777,7 +1830,7 @@
         "rust"
       ],
       "language": [
-        "rust"
+        "Rust"
       ],
       "maintainers": [
         "@Kevin-Ramirez127"
@@ -1804,6 +1857,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/react-components",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -1850,6 +1904,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/schemap",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1870,6 +1925,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/nicolasgutierrezdev/simple-nfc-tag",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1891,6 +1947,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/tagurl",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1962,6 +2019,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/xmlstreamer-ng",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -1984,6 +2042,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/xmlstreamer-poc",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2005,6 +2064,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/martinezanthony/android-sqlite-viewer",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2025,6 +2085,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/martinezanthony/qslider",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2047,6 +2108,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/RM-VidCamPro",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2068,6 +2130,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/martinezanthony/spiralupnp",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2091,6 +2154,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/velocidad-libre",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2104,12 +2168,13 @@
         "tor"
       ],
       "language": [
-        "Javascript"
+        "JavaScript"
       ],
       "maintainers": [],
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/netaru3/Blue_tornet",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2124,6 +2189,7 @@
       "license": "CC-BY-4.0",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/brand",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -2146,6 +2212,7 @@
       "license": "GPL-3.0",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/dsig",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2303,6 +2370,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/easy-calendar",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -2327,6 +2395,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/gitsion",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2345,6 +2414,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/libreblog",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -2367,6 +2437,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/mapcreator",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2384,6 +2455,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/open-groups",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },
@@ -2402,6 +2474,7 @@
       "license": "AGPL-3.0",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2424,6 +2497,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/gauchitodev/PromClim",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2446,6 +2520,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/tadeoolivera/scorer",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2492,6 +2567,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-feed",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2515,6 +2591,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/trustsight-web",
+      "open_to_contributions": true,
       "relationship": "community",
       "open_source": true
     },
@@ -2535,6 +2612,7 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/LibreCourseUY/urumap",
+      "open_to_contributions": true,
       "relationship": "official",
       "open_source": true
     },

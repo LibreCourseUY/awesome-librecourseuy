@@ -99,6 +99,28 @@ def _self_check() -> None:
     assert str(bare.url) == "https://github.com/someone/bare", "url defaults to repository"
     community = json.loads(render_feed([bare], ["Web"], []))["entries"][0]
     assert community["relationship"] == "community", "repositories elsewhere"
+
+    normalized = Entry.model_validate(
+        {
+            **SAMPLE.model_dump(),
+            "language": [
+                " rust ", "Rust", "Typescript", "TYPESCRIPT", "Javascript", "PYTHON", "Zig"
+            ],
+        }
+    )
+    expected_languages = ["Rust", "TypeScript", "JavaScript", "Python", "Zig"]
+    assert normalized.language == expected_languages, "canonical spelling and unique names in order"
+    normalized_feed = json.loads(render_feed([normalized], ["Web"], []))
+    assert normalized_feed["entries"][0]["language"] == expected_languages, "normalized feed"
+    assert not bare.language, "omitted language remains unspecified"
+    for blank in ("", "   "):
+        try:
+            Entry.model_validate({**SAMPLE.model_dump(), "language": [blank]})
+        except ValueError:
+            pass
+        else:
+            raise AssertionError("empty language accepted")
+
     print("build self-check ok")
 
 

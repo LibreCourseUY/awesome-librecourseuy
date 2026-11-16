@@ -20,17 +20,22 @@ jobs:
         run: |
           uv run python scripts/test_build.py
           uv run python scripts/test_validate.py
+          uv run python scripts/test_sync_gitsion.py
           uv run python scripts/build.py
           uv run ruff check scripts/
-      - name: Validate entries (schema and cross-file checks)
+      - name: Validate catalog (schema and cross-file checks)
         if: github.event_name != 'pull_request'
         run: uv run python scripts/validate.py --offline
-      - name: Validate entries (schema, cross-file, and network checks for changed entries)
+      - name: Validate catalog (schema, cross-file, and network checks for changed files)
         if: github.event_name == 'pull_request'
+        shell: bash
         env:
           BASE: ${{ github.event.pull_request.base.sha }}
           HEAD: ${{ github.event.pull_request.head.sha }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          changed=$(git diff --name-only --diff-filter=AMR "$BASE...$HEAD" -- 'entries/*.json')
-          uv run python scripts/validate.py --only $changed
+          changed_file_list=$(mktemp)
+          git diff --name-only --diff-filter=AMR -z "$BASE...$HEAD" -- 'entries/*.json' 'orgs/*.json' > "$changed_file_list"
+          mapfile -d '' -t changed < "$changed_file_list"
+          rm -- "$changed_file_list"
+          uv run python scripts/validate.py --only "${changed[@]}"

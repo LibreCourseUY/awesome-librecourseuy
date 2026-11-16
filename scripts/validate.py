@@ -1,8 +1,8 @@
-"""Validate every entries/*.json. Exits non-zero when anything is wrong.
+"""Validate every entries/*.json and orgs/*.json. Exits non-zero on errors.
 
 Schema and cross-file checks always cover every entry. The network checks (URL
 liveness and repository verification) cover every entry too, unless --only
-narrows them to the given files or --offline skips them.
+narrows them to the given project and organization files or --offline skips them.
 """
 
 from __future__ import annotations
@@ -16,21 +16,21 @@ from models import Entry, Org, load_categories, load_entry_files, load_org_files
 from urls import org_ok, repository_ok, url_ok
 
 
-def select_network_entries(
-    files: dict[Path, Entry], only: list[str] | None
-) -> dict[Path, Entry]:
-    """Pick the entries that get network checks: every one, or only the given files.
+def select_network_files(
+    files: dict[Path, Entry | Org], only: list[str] | None
+) -> dict[Path, Entry | Org]:
+    """Pick catalog files for network checks: every one, or only the given files.
 
     Narrowing them to the files a pull request touches keeps a third-party site
     that is down from blocking unrelated changes.
     """
     if only is None:
         return dict(files)
-    selected: dict[Path, Entry] = {}
+    selected: dict[Path, Entry | Org] = {}
     for raw in only:
         path = Path(raw).resolve()
         if path not in files:
-            raise ValueError(f"{raw}: not an entry file (deleted, or outside entries/)")
+            raise ValueError(f"{raw}: not a catalog file (deleted, or outside entries/ and orgs/)")
         selected[path] = files[path]
     return selected
 
@@ -68,8 +68,8 @@ def main() -> int:
     network.add_argument(
         "--only",
         nargs="*",
-        metavar="ENTRY",
-        help="run the network checks only for these entry files; with no files, skip them",
+        metavar="FILE",
+        help="check the network only for these project or org files; with no files, skip it",
     )
     args = parser.parse_args()
 
@@ -81,13 +81,16 @@ def main() -> int:
         print(f"invalid entry: {exc}", file=sys.stderr)
         return 1
     try:
-        selected = {} if args.offline else select_network_entries(files, args.only)
+        catalog: dict[Path, Entry | Org] = {**files, **org_files}
+        selected = {} if args.offline else select_network_files(catalog, args.only)
     except ValueError as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 2
 
     entries = list(files.values())
     orgs = list(org_files.values())
+    selected_entries = [entry for path, entry in files.items() if path in selected]
+    selected_orgs = [org for path, org in org_files.items() if path in selected]
     errors: list[str] = []
     # Orgs and projects are separate namespaces: an org and its flagship
     # project may share a name or a website.
@@ -108,13 +111,13 @@ def main() -> int:
                 errors.append(f"{item.name}: duplicate {label} repository {repo}")
             seen_repo[repo] = item.name
 
-    if selected:
+    if selected_entries:
         with ThreadPoolExecutor(max_workers=8) as pool:
-            for result in pool.map(check_network, selected.values()):
+            for result in pool.map(check_network, selected_entries):
                 errors.extend(result)
-    if orgs and not args.offline and args.only is None:
+    if selected_orgs:
         with ThreadPoolExecutor(max_workers=4) as pool:
-            for result in pool.map(check_org_network, orgs):
+            for result in pool.map(check_org_network, selected_orgs):
                 errors.extend(result)
 
     if not entries:
@@ -127,7 +130,7 @@ def main() -> int:
     if args.offline:
         checked = "skipped"
     elif args.only is None:
-        checked = f"all {len(selected)} entries, {len(orgs)} orgs"
+        checked = f"all {len(selected_entries)} entries, {len(selected_orgs)} orgs"
     else:
         checked = ", ".join(path.name for path in selected) or "none selected"
     print(

@@ -3,7 +3,8 @@
 Runs on a push that changes entries/*.json. The list is the source of truth:
 each entry's GitHub repository is added to the gitsion dashboard. The call is
 idempotent: repositories already tracked are skipped, so updating one entry
-does not re-fetch the rest from GitHub.
+does not re-fetch the rest from GitHub. Tracked repositories outside the current
+catalog are reported and retained to preserve activity history.
 """
 
 from __future__ import annotations
@@ -74,6 +75,7 @@ def main() -> int:
     added: list[str] = []
     skipped: list[str] = []
     failed: list[tuple[str, int, object]] = []
+    listed: set[str] = set()
 
     for path in sorted(glob.glob("entries/*.json")):
         with open(path, encoding="utf-8") as handle:
@@ -82,6 +84,7 @@ def main() -> int:
         if ref is None:
             print(f"skip {path}: not a GitHub repository ({entry.get('repository')})")
             continue
+        listed.add(ref.lower())
         if ref.lower() in tracked:
             skipped.append(ref)
             continue
@@ -98,7 +101,14 @@ def main() -> int:
             failed.append((ref, status, payload))
             print(f"FAILED {ref}: {status} {payload}", file=sys.stderr)
 
-    print(f"\nadded={len(added)} skipped={len(skipped)} failed={len(failed)}")
+    retained = sorted(tracked - listed)
+    for ref in retained:
+        print(f"retained outside catalog: {ref} (activity history preserved)")
+
+    print(
+        f"\nadded={len(added)} skipped={len(skipped)} "
+        f"retained={len(retained)} failed={len(failed)}"
+    )
     return 1 if failed else 0
 
 

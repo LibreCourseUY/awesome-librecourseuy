@@ -17,6 +17,37 @@ TAGS_FILE = ROOT / "tags.json"
 LICENSES_FILE = ROOT / "licenses.json"
 ORG = "LibreCourseUY"
 
+# Canonical spellings already used by the catalog. New language names remain
+# allowed; this is normalization rather than a closed list of languages.
+LANGUAGE_NAMES = {
+    name.casefold(): name
+    for name in (
+        "Astro",
+        "Batchfile",
+        "C",
+        "C#",
+        "C++",
+        "CSS",
+        "GDScript",
+        "Go",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "Jupyter Notebook",
+        "Kotlin",
+        "Luau",
+        "Makefile",
+        "Pawn",
+        "PHP",
+        "Python",
+        "React",
+        "Rust",
+        "Shell",
+        "TypeScript",
+        "Vue",
+    )
+}
+
 
 def load_categories() -> list[str]:
     data = json.loads(CATEGORIES_FILE.read_text(encoding="utf-8"))
@@ -74,6 +105,19 @@ class Entry(BaseModel):
                 f"unknown tags {', '.join(unknown)}; add them to tags.json"
             )
         return v
+
+    @field_validator("language")
+    @classmethod
+    def _canonical_languages(cls, values: list[str]) -> list[str]:
+        languages: list[str] = []
+        for value in values:
+            name = value.strip()
+            if not name:
+                raise ValueError("language must not be empty")
+            canonical = LANGUAGE_NAMES.get(name.casefold(), name)
+            if canonical not in languages:
+                languages.append(canonical)
+        return languages
 
     @field_validator("license")
     @classmethod
@@ -137,7 +181,7 @@ class OrgColor(BaseModel):
 
 
 class Org(BaseModel):
-    """A Uruguayan-based open source organization, listed above the projects."""
+    """An open source organization from the LCUY ecosystem, listed above projects."""
 
     model_config = ConfigDict(extra="forbid")
 

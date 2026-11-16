@@ -16,5 +16,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/rypipe"
+  "repository": "https://github.com/emiliano-go/rypipe",
+  "open_to_contributions": true
 }

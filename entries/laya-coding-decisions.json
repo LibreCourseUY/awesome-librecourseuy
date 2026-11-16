@@ -13,5 +13,6 @@
     "@emiliano-go"
   ],
   "license": "Apache-2.0",
-  "repository": "https://github.com/emiliano-go/laya-coding-decisions"
+  "repository": "https://github.com/emiliano-go/laya-coding-decisions",
+  "open_to_contributions": true
 }

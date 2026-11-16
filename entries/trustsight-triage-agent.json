@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/trustsight-triage-agent"
+  "repository": "https://github.com/emiliano-go/trustsight-triage-agent",
+  "open_to_contributions": true
 }

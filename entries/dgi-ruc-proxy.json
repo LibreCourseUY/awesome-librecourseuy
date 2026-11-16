@@ -7,5 +7,6 @@
   "language": ["JavaScript"],
   "maintainers": ["@GerMP21"],
   "license": "MIT",
-  "repository": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client"
+  "repository": "https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client",
+  "open_to_contributions": true
 }

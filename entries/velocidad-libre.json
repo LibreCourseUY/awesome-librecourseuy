@@ -7,5 +7,6 @@
   "language": ["Java"],
   "maintainers": ["@gauchitodev"],
   "license": "MIT",
-  "repository": "https://github.com/gauchitodev/velocidad-libre"
+  "repository": "https://github.com/gauchitodev/velocidad-libre",
+  "open_to_contributions": true
 }

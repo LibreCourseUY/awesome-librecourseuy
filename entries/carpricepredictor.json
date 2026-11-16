@@ -16,5 +16,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/carpricepredictor"
+  "repository": "https://github.com/emiliano-go/carpricepredictor",
+  "open_to_contributions": true
 }

@@ -7,5 +7,6 @@
   "language": ["JavaScript"],
   "maintainers": ["@tadeoolivera"],
   "license": "MIT",
-  "repository": "https://github.com/tadeoolivera/scorer"
+  "repository": "https://github.com/tadeoolivera/scorer",
+  "open_to_contributions": true
 }

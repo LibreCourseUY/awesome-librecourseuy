@@ -14,5 +14,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/postal"
+  "repository": "https://github.com/emiliano-go/postal",
+  "open_to_contributions": true
 }

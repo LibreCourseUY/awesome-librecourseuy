@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/trustsight-web"
+  "repository": "https://github.com/emiliano-go/trustsight-web",
+  "open_to_contributions": true
 }

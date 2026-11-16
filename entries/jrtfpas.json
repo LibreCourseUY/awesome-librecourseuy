@@ -7,5 +7,6 @@
   "language": ["Shell", "Batchfile", "Makefile"],
   "maintainers": ["@joaquinlarroca"],
   "license": "MIT",
-  "repository": "https://github.com/joaquinlarroca/JRTFPAS"
+  "repository": "https://github.com/joaquinlarroca/JRTFPAS",
+  "open_to_contributions": true
 }

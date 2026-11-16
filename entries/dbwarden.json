@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/dbwarden-org/dbwarden"
+  "repository": "https://github.com/dbwarden-org/dbwarden",
+  "open_to_contributions": true
 }

@@ -13,5 +13,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/lambda-compiler"
+  "repository": "https://github.com/emiliano-go/lambda-compiler",
+  "open_to_contributions": true
 }

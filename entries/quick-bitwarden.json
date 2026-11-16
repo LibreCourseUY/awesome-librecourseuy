@@ -4,7 +4,7 @@
   "description": "A quick way to copy your Bitwarden passwords, with a fast r-modals picker.",
   "category": "Desktop",
   "tags": ["linux"],
-  "language": ["rust"],
+  "language": ["Rust"],
   "maintainers": ["@Kevin-Ramirez127"],
   "license": "GPL-3.0",
   "repository": "https://github.com/Kevin-Ramirez127/quick-bitwarden",

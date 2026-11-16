@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/mapcreator"
+  "repository": "https://github.com/emiliano-go/mapcreator",
+  "open_to_contributions": true
 }

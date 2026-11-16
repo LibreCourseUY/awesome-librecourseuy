@@ -3,7 +3,8 @@
   "description": "is a typescript version of hydra.",
   "category": "Developer Tools",
   "tags": ["typescript", "hydra"],
-  "language": ["Typescript"],
+  "language": ["TypeScript"],
   "license": "MIT",
-  "repository": "https://github.com/netaru3/hydra_in_typescript"
+  "repository": "https://github.com/netaru3/hydra_in_typescript",
+  "open_to_contributions": true
 }

@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/totem"
+  "repository": "https://github.com/emiliano-go/totem",
+  "open_to_contributions": true
 }

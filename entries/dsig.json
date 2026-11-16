@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "GPL-3.0",
-  "repository": "https://github.com/emiliano-go/dsig"
+  "repository": "https://github.com/emiliano-go/dsig",
+  "open_to_contributions": true
 }

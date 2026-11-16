@@ -5,5 +5,6 @@
   "tags": ["vue", "geolocation"],
   "language": ["Vue", "JavaScript"],
   "license": "MIT",
-  "repository": "https://github.com/LibreCourseUY/urumap"
+  "repository": "https://github.com/LibreCourseUY/urumap",
+  "open_to_contributions": true
 }

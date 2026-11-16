@@ -7,5 +7,6 @@
   "language": ["TypeScript"],
   "maintainers": ["@joaquinlarroca"],
   "license": "MIT",
-  "repository": "https://github.com/joaquinlarroca/LurkJS"
+  "repository": "https://github.com/joaquinlarroca/LurkJS",
+  "open_to_contributions": true
 }

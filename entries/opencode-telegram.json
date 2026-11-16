@@ -15,5 +15,6 @@
     "@Kevin-Ramirez127"
   ],
   "license": "GPL-3.0",
-  "repository": "https://github.com/Kevin-Ramirez127/opencode-telegram"
+  "repository": "https://github.com/Kevin-Ramirez127/opencode-telegram",
+  "open_to_contributions": true
 }

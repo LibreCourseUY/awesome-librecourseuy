@@ -7,5 +7,6 @@
   "language": ["Shell", "Python", "C"],
   "maintainers": ["@gauchitodev"],
   "license": "MIT",
-  "repository": "https://github.com/gauchitodev/Arch-Magic"
+  "repository": "https://github.com/gauchitodev/Arch-Magic",
+  "open_to_contributions": true
 }

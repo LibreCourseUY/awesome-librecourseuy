@@ -15,5 +15,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/clickvault"
+  "repository": "https://github.com/emiliano-go/clickvault",
+  "open_to_contributions": true
 }

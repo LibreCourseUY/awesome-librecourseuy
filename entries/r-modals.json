@@ -4,7 +4,7 @@
   "description": "Instant modals for Rust - one call pops a centered, borderless, searchable option picker (eframe/egui, X11 + Wayland).",
   "category": "Libraries",
   "tags": ["linux", "automation", "offline", "rust"],
-  "language": ["rust"],
+  "language": ["Rust"],
   "maintainers": ["@Kevin-Ramirez127"],
   "license": "GPL-3.0",
   "repository": "https://github.com/Kevin-Ramirez127/r-modals",

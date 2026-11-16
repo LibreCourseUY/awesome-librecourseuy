@@ -5,5 +5,6 @@
   "tags": ["fastapi", "python", "open-data", "docker"],
   "language": ["Python"],
   "license": "MIT",
-  "repository": "https://github.com/LibreCourseUY/UruAPI"
+  "repository": "https://github.com/LibreCourseUY/UruAPI",
+  "open_to_contributions": true
 }

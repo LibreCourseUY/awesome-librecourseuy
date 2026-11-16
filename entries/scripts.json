@@ -5,5 +5,6 @@
   "tags": [],
   "language": ["Shell", "Python"],
   "license": "MIT",
-  "repository": "https://github.com/LibreCourseUY/scripts"
+  "repository": "https://github.com/LibreCourseUY/scripts",
+  "open_to_contributions": true
 }

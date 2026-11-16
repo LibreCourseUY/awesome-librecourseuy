@@ -10,5 +10,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/Cpp-Notes"
+  "repository": "https://github.com/emiliano-go/Cpp-Notes",
+  "open_to_contributions": true
 }

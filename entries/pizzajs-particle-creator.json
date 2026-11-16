@@ -7,5 +7,6 @@
   "language": ["JavaScript"],
   "maintainers": ["@joaquinlarroca"],
   "license": "GPL-3.0",
-  "repository": "https://github.com/joaquinlarroca/PizzaJS-particle-creator"
+  "repository": "https://github.com/joaquinlarroca/PizzaJS-particle-creator",
+  "open_to_contributions": true
 }

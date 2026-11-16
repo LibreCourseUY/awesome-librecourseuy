@@ -14,5 +14,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/xmlstreamer-poc"
+  "repository": "https://github.com/emiliano-go/xmlstreamer-poc",
+  "open_to_contributions": true
 }

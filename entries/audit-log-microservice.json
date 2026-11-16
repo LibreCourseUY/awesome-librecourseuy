@@ -5,5 +5,6 @@
   "tags": [],
   "language": [],
   "license": "MIT",
-  "repository": "https://github.com/LibreCourseUY/audit-log-microservice"
+  "repository": "https://github.com/LibreCourseUY/audit-log-microservice",
+  "open_to_contributions": true
 }

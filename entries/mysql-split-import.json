@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@GerMP21"],
   "license": "MIT",
-  "repository": "https://github.com/GerMP21/mysql-split-import"
+  "repository": "https://github.com/GerMP21/mysql-split-import",
+  "open_to_contributions": true
 }

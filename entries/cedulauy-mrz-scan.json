@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@nicolasgutierrezdev"],
   "license": "GPL-3.0",
-  "repository": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan"
+  "repository": "https://github.com/nicolasgutierrezdev/cedulauy-mrz-scan",
+  "open_to_contributions": true
 }

@@ -3,7 +3,8 @@
   "description": "is hydra whit rotation ip for each N petitions.",
   "category": "Developer Tools",
   "tags": ["typescript", "hydra"],
-  "language": ["Typescript"],
+  "language": ["TypeScript"],
   "license": "MIT",
-  "repository": "https://github.com/netaru3/tornet"
+  "repository": "https://github.com/netaru3/tornet",
+  "open_to_contributions": true
 }

@@ -3,7 +3,8 @@
   "description": "is a tor proxy whit isolate circuits",
   "category": "Other",
   "tags": ["javascript", "tor"],
-  "language": ["Javascript"],
+  "language": ["JavaScript"],
   "license": "MIT",
-  "repository": "https://github.com/netaru3/Blue_tornet"
+  "repository": "https://github.com/netaru3/Blue_tornet",
+  "open_to_contributions": true
 }

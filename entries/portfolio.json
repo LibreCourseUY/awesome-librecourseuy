@@ -10,5 +10,6 @@
     "@emiliano-go"
   ],
   "license": "AGPL-3.0",
-  "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io"
+  "repository": "https://github.com/emiliano-go/emiliano-gandini-outeda.github.io",
+  "open_to_contributions": true
 }

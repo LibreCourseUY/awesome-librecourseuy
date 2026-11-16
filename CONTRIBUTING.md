@@ -32,8 +32,14 @@ next.
 | Act | What it means | How it shows |
 |-----|---------------|--------------|
 | **Listing** | The project meets the inclusion criteria and has an entry here. | A file in `entries/`; the feed carries `relationship: community`. |
-| **Collaboration** | The project's maintainers welcome outside contributors. LibreCourseUY members contribute like anyone else, and the project's maintainers keep deciding what gets merged. | `open_to_contributions: true`, declared by the maintainers in the entry. |
+| **Collaboration** | Contributors follow the project's contribution terms and coordinate changes with its maintainers, who keep deciding what gets merged. | `open_to_contributions: true` is the catalog's invitation to contribute. |
 | **Adoption** | LibreCourseUY takes responsibility for maintaining and governing the project. | The repository lives under the [LibreCourseUY organization](https://github.com/LibreCourseUY) and the feed derives `relationship: official`. |
+
+Catalog curators may mark projects as open to contributions without individual
+maintainer confirmation. This is an invitation to explore contributing; it does
+not establish that collaboration has begun or guarantee that a proposed change
+will be accepted. Read each project's contribution guidelines and coordinate
+the scope of a contribution with its maintainers.
 
 Adoption is a transfer of the repository into the organization, agreed with
 the project's maintainers and decided by the organization administrators, as
@@ -78,6 +84,20 @@ against GitHub and the project URLs and opens an issue when something fails;
 maintainers fix or remove the affected entries from there. Removal is not a
 judgment on the project: anyone can propose the entry again once the criteria
 hold.
+
+### Activity tracking in Gitsion
+
+The [Gitsion synchronization](scripts/sync_gitsion.py) adds listed GitHub
+repositories to the activity tracker. Repositories already tracked are skipped.
+Repositories tracked by Gitsion but absent from the current catalog are reported
+in the workflow log and kept to preserve their activity history. This includes
+removed entries and repositories tracked independently of this catalog.
+
+Removing an entry changes the current catalog; it does not delete its history or
+automatically stop tracking it in Gitsion. The current catalog determines listing
+status. Presence in Gitsion does not establish current catalog membership or
+official LibreCourseUY status. Stopping tracking or deleting activity history is
+a separate maintenance decision.
 
 ## Before you start
 
@@ -147,12 +167,12 @@ All commits must be **GPG-signed**. See the
 | `description` | yes | One sentence, no trailing period needed. |
 | `category` | yes | One of the categories in [`categories.json`](categories.json). |
 | `tags` | no | Free-form keywords. |
-| `language` | no | Programming languages, as a list. |
-| `maintainers` | no | GitHub handles, each starting with `@`. |
+| `language` | no | Programming languages, as a list. Known names use canonical spelling (e.g. `JavaScript`, `TypeScript`, `Rust`); whitespace and duplicates are removed when the catalog is loaded. New language names are allowed. |
+| `maintainers` | no | Declared maintainer GitHub handles, each starting with `@`. Omission means the maintainers have not been declared here. |
 | `license` | yes | One of the SPDX identifiers in [`licenses.json`](licenses.json), exactly as GitHub detects it (e.g. `MIT`, or `GPL-3.0` rather than `GPL-3.0-or-later`). |
 | `commercial` | no | `true` or `false`: whether the project is sold or otherwise monetized (paid product, ads, subscription...). Defaults to `false` (non-commercial). |
 | `repository` | yes | Source repository URL (`http`/`https`). Must be unique. Only open source projects are listed. |
-| `open_to_contributions` | no | `true` or `false`. Whether the project accepts outside contributions. If omitted it is unknown, never assumed, and left out of the feed. |
+| `open_to_contributions` | no | `true` or `false`. Contribution invitation shown by this catalog; curators may set it without individual maintainer confirmation. The project's contribution terms and maintainers' decisions apply. If omitted, the status is unknown and left out of the feed. |
 
 The feed also carries `relationship`, derived from `repository`: `official` for
 repositories owned by the LibreCourseUY organization on GitHub, `community` for
@@ -200,6 +220,15 @@ The `relationship` rule from entries applies here too: the LibreCourseUY
 organization is `official`, everything else is `community`, and orgs cannot
 set it themselves. CI checks that the organization exists and is public.
 
+To check a new or changed organization locally:
+
+```bash
+uv run python scripts/validate.py --only orgs/my-org.json
+```
+
+`--only` also accepts project and organization files together. Schema and
+cross-file checks still cover the whole catalog; only network checks are narrowed.
+
 ## What CI checks
 
 `scripts/validate.py` runs on every pull request and fails if, for any entry:
@@ -217,14 +246,17 @@ Orgs are checked the same way, minus the entry-only fields: name, URL and
 repository must be unique, tags must be known, and CI verifies the GitHub
 organization exists and is public.
 
-For the entries the pull request adds or changes, it also fails if:
+For project entries the pull request adds or changes, it also fails if:
 
 - the project URL is not reachable (HTTP error, dead host, timeout);
 - the repository is private, archived or does not exist, or GitHub cannot
   identify its license or detects a different one than declared (GitHub
   repositories are verified through the API).
 
-These network checks are limited to the changed entries on purpose: a
+For organizations the pull request adds or changes, it also checks that the
+website is reachable and the GitHub organization exists and is public.
+
+These network checks are limited to the changed project and organization files: a
 third-party site that is down for a day must not block an unrelated pull
 request. Every entry is re-checked by the
 [weekly workflow](.github/workflows/sweep.yml) instead, which opens an issue
@@ -234,8 +266,9 @@ The network checks run against GitHub with the Actions `GITHUB_TOKEN`, so
 public repositories are verified reliably. Locally, set `GITHUB_TOKEN` in your
 environment for the same behaviour.
 
-CI also renders the generated files from your entries and runs the generator
-and validator self-checks (`scripts/test_build.py`, `scripts/test_validate.py`),
+CI also renders the generated files from your entries and runs the generator,
+validator and Gitsion synchronization self-checks (`scripts/test_build.py`,
+`scripts/test_validate.py`, `scripts/test_sync_gitsion.py`),
 but never asks you to commit them: they are regenerated on merge to `master`,
 so you never need to do it yourself.
 

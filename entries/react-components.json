@@ -5,5 +5,6 @@
   "tags": ["react"],
   "language": ["TypeScript"],
   "license": "MIT",
-  "repository": "https://github.com/LibreCourseUY/react-components"
+  "repository": "https://github.com/LibreCourseUY/react-components",
+  "open_to_contributions": true
 }

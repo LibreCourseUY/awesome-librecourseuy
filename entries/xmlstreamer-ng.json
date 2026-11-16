@@ -17,5 +17,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/xmlstreamer-ng"
+  "repository": "https://github.com/emiliano-go/xmlstreamer-ng",
+  "open_to_contributions": true
 }

@@ -7,5 +7,6 @@
   "language": ["Java", "JavaScript"],
   "maintainers": ["@gauchitodev"],
   "license": "MIT",
-  "repository": "https://github.com/gauchitodev/ClaudIA-Minecraft"
+  "repository": "https://github.com/gauchitodev/ClaudIA-Minecraft",
+  "open_to_contributions": true
 }

@@ -7,5 +7,6 @@
   "language": ["Kotlin"],
   "maintainers": ["@martinezanthony"],
   "license": "GPL-3.0",
-  "repository": "https://github.com/martinezanthony/spiralupnp"
+  "repository": "https://github.com/martinezanthony/spiralupnp",
+  "open_to_contributions": true
 }

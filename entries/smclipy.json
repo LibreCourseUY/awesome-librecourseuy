@@ -7,5 +7,6 @@
   "language": ["Python"],
   "maintainers": ["@joaquinlarroca"],
   "license": "MIT",
-  "repository": "https://github.com/joaquinlarroca/smclipy"
+  "repository": "https://github.com/joaquinlarroca/smclipy",
+  "open_to_contributions": true
 }

@@ -7,5 +7,6 @@
   "language": ["Python", "JavaScript", "Shell"],
   "maintainers": ["@gauchitodev"],
   "license": "MIT",
-  "repository": "https://github.com/gauchitodev/sway-deere"
+  "repository": "https://github.com/gauchitodev/sway-deere",
+  "open_to_contributions": true
 }

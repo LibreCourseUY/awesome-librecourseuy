@@ -14,5 +14,6 @@
     "@emiliano-go"
   ],
   "license": "MIT",
-  "repository": "https://github.com/emiliano-go/autoimmune-disorder-prediction"
+  "repository": "https://github.com/emiliano-go/autoimmune-disorder-prediction",
+  "open_to_contributions": true
 }

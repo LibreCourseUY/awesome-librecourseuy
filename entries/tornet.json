@@ -1,10 +1,19 @@
 {
   "name": "tornet",
-  "description": "is hydra whit rotation ip for each N petitions.",
-  "category": "Developer Tools",
-  "tags": ["typescript", "hydra"],
-  "language": ["TypeScript"],
+  "description": "Linux/Tor IP-rotation brute-force tool: sends a wordlist through rotating Tor exits with configurable request intervals, body, headers and error marker.",
+  "category": "Security",
+  "tags": [
+    "typescript",
+    "tor",
+    "security"
+  ],
+  "language": [
+    "TypeScript"
+  ],
   "license": "MIT",
   "repository": "https://github.com/netaru3/tornet",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@netaru3"
+  ]
 }

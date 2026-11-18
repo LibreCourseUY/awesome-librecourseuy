@@ -1,6 +1,6 @@
 {
   "name": "gitsion",
-  "description": "View on dashboard github repositories",
+  "description": "Self-hosted public feed for the GitHub repositories you track: latest pushes, pull requests and issues in one newest-first dashboard.",
   "category": "Web",
   "tags": [
     "go",

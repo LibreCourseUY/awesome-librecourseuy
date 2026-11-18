@@ -6,5 +6,8 @@
   "language": [],
   "license": "MIT",
   "repository": "https://github.com/LibreCourseUY/audit-log-microservice",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@emiliano-go"
+  ]
 }

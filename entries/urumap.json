@@ -2,9 +2,18 @@
   "name": "urumap",
   "description": "Interactive maps of Uruguayan public buildings, rendered from mapcreator JSON.",
   "category": "Web",
-  "tags": ["vue", "geolocation"],
-  "language": ["Vue", "JavaScript"],
+  "tags": [
+    "vue",
+    "geolocation"
+  ],
+  "language": [
+    "Vue",
+    "JavaScript"
+  ],
   "license": "MIT",
   "repository": "https://github.com/LibreCourseUY/urumap",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@emiliano-go"
+  ]
 }

@@ -2,9 +2,19 @@
   "name": "open-groups",
   "description": "Small self-hosted directory for groups, with configurable branding.",
   "category": "Web",
-  "tags": [],
-  "language": ["HTML", "Python"],
+  "tags": [
+    "python",
+    "postgres",
+    "docker"
+  ],
+  "language": [
+    "HTML",
+    "Python"
+  ],
   "license": "MIT",
   "repository": "https://github.com/LibreCourseUY/open-groups",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@emiliano-go"
+  ]
 }

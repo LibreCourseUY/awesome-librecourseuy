@@ -2,9 +2,20 @@
   "name": "UruAPI",
   "description": "API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources.",
   "category": "APIs",
-  "tags": ["fastapi", "python", "open-data", "docker"],
-  "language": ["Python"],
+  "tags": [
+    "fastapi",
+    "python",
+    "open-data",
+    "docker"
+  ],
+  "language": [
+    "Python"
+  ],
   "license": "MIT",
   "repository": "https://github.com/LibreCourseUY/UruAPI",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@emiliano-go",
+    "@nicolasgutierrezdev"
+  ]
 }

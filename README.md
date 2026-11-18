@@ -28,24 +28,24 @@ explains what listing means and when an entry is removed.
 ### Web
 
 - [Easy Calendar](https://github.com/LibreCourseUY/easy-calendar): A lightweight year-view calendar web app built with Preact and Vite. Load your events via a JSON environment variable and view them month by month. ([@emiliano-go](https://github.com/emiliano-go))
-- [gitsion](https://github.com/Kevin-Ramirez127/gitsion): View on dashboard github repositories ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
-- [libreblog](https://github.com/LibreCourseUY/libreblog): Blog for LibreCourseUY built with Hugo and auto-deployed via GitHub Actions.
+- [gitsion](https://github.com/Kevin-Ramirez127/gitsion): Self-hosted public feed for the GitHub repositories you track: latest pushes, pull requests and issues in one newest-first dashboard. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
+- [libreblog](https://github.com/LibreCourseUY/libreblog): Blog for LibreCourseUY built with Hugo and auto-deployed via GitHub Actions. ([@emiliano-go](https://github.com/emiliano-go) · [@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
 - [mapcreator](https://mapcreator.emiliano-go.com/): Interactive multi-floor building map editor with A* pathfinding. Paint tile-based floor plans, define vertical connections and visualize shortest paths across floors. ([@emiliano-go](https://github.com/emiliano-go))
-- [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding.
-- [Portfolio](https://github.com/emiliano-go/emiliano-gandini-outeda.github.io): Personal portfolio website. ([@emiliano-go](https://github.com/emiliano-go))
+- [open-groups](https://github.com/LibreCourseUY/open-groups): Small self-hosted directory for groups, with configurable branding. ([@emiliano-go](https://github.com/emiliano-go))
+- [Portfolio](https://github.com/emiliano-go/emiliano-gandini-outeda.github.io): Personal portfolio website with selected projects and background. ([@emiliano-go](https://github.com/emiliano-go))
 - [PromClim](https://github.com/gauchitodev/PromClim): Local weather dashboard combining forecasts from multiple providers, including INUMET, with averages, source comparisons and forecast verification ([@gauchitodev](https://github.com/gauchitodev))
 - [Scorer](https://scorerweb.netlify.app/): Web scoreboard for tabletop games with player management, round scoring, configurable score limits and player elimination ([@tadeoolivera](https://github.com/tadeoolivera))
 - [Takeoff Performance Calculator - Pipistrel ALPHA Trainer](https://github.com/carlosplanchon/takeoff-performance-calculator-piat): Educational browser-based takeoff performance calculator for the Pipistrel ALPHA Trainer, with wind corrections and runway comparisons. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [TrustSight Feed](https://watcher.trustsight.org/): Searchable feed of TrustSight AUR watcher alerts. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight Web](https://github.com/emiliano-go/trustsight-web): Single-page site presenting TrustSight's evidence-first AUR review model: capabilities, calibration, configuration and limits. ([@emiliano-go](https://github.com/emiliano-go))
-- [urumap](https://github.com/LibreCourseUY/urumap): Interactive maps of Uruguayan public buildings, rendered from mapcreator JSON.
+- [urumap](https://github.com/LibreCourseUY/urumap): Interactive maps of Uruguayan public buildings, rendered from mapcreator JSON. ([@emiliano-go](https://github.com/emiliano-go))
 - [Weight and Balance Calculator - Pipistrel ALPHA Trainer](https://github.com/carlosplanchon/weight-and-balance-calculator-piat): Educational browser-based weight and balance calculator for the Pipistrel ALPHA Trainer, with fuel burn and center-of-gravity checks. ([@carlosplanchon](https://github.com/carlosplanchon))
 
 ### APIs
 
-- [audit-log-microservice](https://github.com/LibreCourseUY/audit-log-microservice): Microservice for centralized audit logging.
+- [audit-log-microservice](https://github.com/LibreCourseUY/audit-log-microservice): Microservice for centralized audit logging. ([@emiliano-go](https://github.com/emiliano-go))
 - [DGI RUC Consultation API Proxy](https://github.com/GerMP21/DGI-WS_PersonaGetActEmpresarial-Proxy-Client): REST API proxy for Uruguay's DGI RUC consultation service, handling SOAP requests, certificate signing and JSON responses ([@GerMP21](https://github.com/GerMP21))
-- [UruAPI](https://github.com/LibreCourseUY/UruAPI): API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources.
+- [UruAPI](https://github.com/LibreCourseUY/UruAPI): API wrapping datosuruguay.com with programmatic access to Uruguay's daily economic indicators from official sources. ([@emiliano-go](https://github.com/emiliano-go) · [@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
 
 ### Mobile
 
@@ -79,7 +79,8 @@ explains what listing means and when an entry is removed.
 
 ### Browser Extensions
 
-- [moodleTweaks](https://github.com/LibreCourseUY/moodleTweaks): Extensión de navegador que unifica el estilo visual de Moodle con modo oscuro automático, escala tipográfica y barra de próximas entregas.
+- [dsig](https://github.com/emiliano-go/dsig): GPG message signing for Vencord / Vesktop: every message carries a verifiable authorship attestation, not encryption. ([@emiliano-go](https://github.com/emiliano-go))
+- [moodleTweaks](https://github.com/LibreCourseUY/moodleTweaks): Extensión de navegador que unifica el estilo visual de Moodle con modo oscuro automático, escala tipográfica y barra de próximas entregas. ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [NoBingRedirectInstead](https://github.com/joaquinlarroca/NoBingRedirectInstead): Firefox extension that redirects Bing searches and pages to a configurable search engine or custom URL ([@joaquinlarroca](https://github.com/joaquinlarroca))
 
 ### Libraries
@@ -100,7 +101,7 @@ explains what listing means and when an entry is removed.
 - [PizzaJS](https://github.com/joaquinlarroca/pizzajs): JavaScript game framework for HTML Canvas with input handling, sprites, collisions, sound and optional add-ons ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [plotilleresample](https://github.com/carlosplanchon/plotilleresample): Resample datasets for Plotille terminal plots using stride, min/max, LTTB and MinMaxLTTB strategies. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [r-modals](https://github.com/Kevin-Ramirez127/r-modals): Instant modals for Rust - one call pops a centered, borderless, searchable option picker (eframe/egui, X11 + Wayland). ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
-- [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React.
+- [react-components](https://github.com/LibreCourseUY/react-components): Collaborative React component library for developers taking their first steps in React. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
 - [rsyscall-ng](https://github.com/carlosplanchon/rsyscall-ng): Modernized rsyscall for controlling local and remote Linux processes from Python, with a Rust native implementation. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [schemap](https://schemap.emiliano-go.com/): Automatic Pydantic schemas for SQLAlchemy models. ([@emiliano-go](https://github.com/emiliano-go))
 - [simple-nfc-tag](https://github.com/nicolasgutierrezdev/simple-nfc-tag): A tag-agnostic NFC data storage library built on PC/SC, abstracting away reader, tag and protocol details. ([@nicolasgutierrezdev](https://github.com/nicolasgutierrezdev))
@@ -119,17 +120,15 @@ explains what listing means and when an entry is removed.
 - [Enodia](https://github.com/carlosplanchon/enodia): Wardriving on foot, without GPS or internet. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [FastAPI Boilerplate](https://github.com/benavlabs/FastAPI-boilerplate): Async FastAPI application foundation with authentication, CRUD, background jobs, caching and PostgreSQL. ([@igorbenav](https://github.com/igorbenav))
 - [hestia](https://github.com/emiliano-go/hestia): Self-hostable agentic project cockpit with persistent Totem memory. ([@emiliano-go](https://github.com/emiliano-go))
-- [hydra_in_typescript](https://github.com/netaru3/hydra_in_typescript): is a typescript version of hydra.
-- [Keel](https://keel-linux.github.io/): Library and CLI for declarative Keel Linux appliances, compatible with TurnKey Linux appliances.
+- [Keel](https://keel-linux.github.io/): Library and CLI for declarative Keel Linux appliances, compatible with TurnKey Linux appliances. ([@marcos-mendez](https://github.com/marcos-mendez))
 - [laya-coding-decisions](https://github.com/emiliano-go/laya-coding-decisions): Training data and harness to turn Laya into a coding-agent judge for the hestia decision engine. ([@emiliano-go](https://github.com/emiliano-go))
 - [opencode-bgj](https://github.com/emiliano-go/opencode-bgj): Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background. ([@emiliano-go](https://github.com/emiliano-go))
 - [Panopticon](https://github.com/emiliano-go/panopticon): Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard. ([@emiliano-go](https://github.com/emiliano-go))
 - [PizzaJS Particle Creator](https://github.com/joaquinlarroca/PizzaJS-particle-creator): Visual particle effect editor for PizzaJS with adjustable particle parameters, live previews and generated code copying ([@joaquinlarroca](https://github.com/joaquinlarroca))
 - [RBG-Harness](https://github.com/emiliano-go/RBG-Harness): Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models. ([@emiliano-go](https://github.com/emiliano-go))
 - [rbxcs](https://github.com/SecondNewtonLaw/rbxcs): Work-in-progress C# to Luau transpiler for Roblox, with automatic binding generation at build time. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
-- [scripts](https://github.com/LibreCourseUY/scripts): A collection of community-contributed utility scripts, organized by programming language.
+- [scripts](https://github.com/LibreCourseUY/scripts): A collection of community-contributed utility scripts, organized by programming language. ([@emiliano-go](https://github.com/emiliano-go))
 - [starship-p10k-rainbow](https://github.com/carlosplanchon/starship-p10k-rainbow): Starship prompt preset that recreates the Powerlevel10k rainbow style across supported shells. ([@carlosplanchon](https://github.com/carlosplanchon))
-- [tornet](https://github.com/netaru3/tornet): is hydra whit rotation ip for each N petitions.
 - [Totem](https://github.com/emiliano-go/totem): Persistent memory layer for engineering agents. MCP server + CLI. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight](https://trustsight.org/): AUR package update vetting tool. Run it before yay -Syu. ([@emiliano-go](https://github.com/emiliano-go))
 - [TrustSight Harness](https://github.com/emiliano-go/trustsight-harness): Reproducible, cost-tracked adversarial measurement harness for TrustSight. ([@emiliano-go](https://github.com/emiliano-go))
@@ -142,7 +141,7 @@ explains what listing means and when an entry is removed.
 
 ### Data & Analytics
 
-- [ArgosUY](https://github.com/LibreCourseUY/ArgosUY): Open-source platform that indexes Uruguay's GitHub ecosystem and exposes it through a FastAPI backend.
+- [ArgosUY](https://github.com/LibreCourseUY/ArgosUY): Open-source platform that indexes Uruguay's GitHub ecosystem and exposes it through a FastAPI backend. ([@emiliano-go](https://github.com/emiliano-go))
 - [autoimmune-disorder-prediction](https://github.com/emiliano-go/autoimmune-disorder-prediction): Machine-learning exploration of the All Autoimmune Disorder 10k dataset: data download and cleaning package plus EDA and feature-engineering notebooks. ([@emiliano-go](https://github.com/emiliano-go))
 - [carpricepredictor](https://github.com/emiliano-go/carpricepredictor): Predict car prices from the classic Automobile Data Set: linear-regression pipeline, FastAPI service and containerized frontend. ([@emiliano-go](https://github.com/emiliano-go))
 - [crxml](https://crxml.emiliano-go.com/): High-performance Crystal Reports XML parser built on the rypipe columnar ingestion engine. ([@emiliano-go](https://github.com/emiliano-go))
@@ -162,7 +161,9 @@ explains what listing means and when an entry is removed.
 - [FirmaUY](https://github.com/carlosplanchon/firmauy): Sign and verify PDF, XML and arbitrary files locally with the Uruguayan electronic identity card. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [firmauy-mcp-inspect](https://github.com/carlosplanchon/firmauy-mcp-inspect): Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [Fission](https://github.com/SecondNewtonLaw/Fission): Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
+- [hydra_in_typescript](https://github.com/netaru3/hydra_in_typescript): TypeScript reimplementation of Hydra for HTTP brute-force testing: configurable wordlist, body and headers, error marker and parallel workers. ([@netaru3](https://github.com/netaru3))
 - [SharpHide](https://github.com/SecondNewtonLaw/SharpHide): C# obfuscator for .NET assemblies, being rebuilt as a continuation of an older project. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
+- [tornet](https://github.com/netaru3/tornet): Linux/Tor IP-rotation brute-force tool: sends a wordlist through rotating Tor exits with configurable request intervals, body, headers and error marker. ([@netaru3](https://github.com/netaru3))
 - [vibe-check](https://github.com/benavlabs/vibe-check): Security scanner and audit checklists for AI-generated web applications, covering exposed files, headers, CORS, cookies and debug endpoints ([@igorbenav](https://github.com/igorbenav))
 
 ### Automation
@@ -178,8 +179,7 @@ explains what listing means and when an entry is removed.
 
 ### Other
 
-- [brand](https://github.com/LibreCourseUY/brand): Official brand assets, logos, and visual identity guidelines for LibreCourseUY.
-- [dsig](https://github.com/emiliano-go/dsig): GPG message signing for Vencord / Vesktop: every message carries a verifiable authorship attestation, not encryption. ([@emiliano-go](https://github.com/emiliano-go))
+- [brand](https://github.com/LibreCourseUY/brand): Official brand assets, logos, and visual identity guidelines for LibreCourseUY. ([@carlosplanchon](https://github.com/carlosplanchon))
 <!-- PROJECTS:END -->
 
 ## License

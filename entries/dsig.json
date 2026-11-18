@@ -2,7 +2,7 @@
   "name": "dsig",
   "url": "https://github.com/emiliano-go/dsig",
   "description": "GPG message signing for Vencord / Vesktop: every message carries a verifiable authorship attestation, not encryption.",
-  "category": "Other",
+  "category": "Browser Extensions",
   "tags": [
     "gpg",
     "discord",

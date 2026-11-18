@@ -1,10 +1,18 @@
 {
   "name": "hydra_in_typescript",
-  "description": "is a typescript version of hydra.",
-  "category": "Developer Tools",
-  "tags": ["typescript", "hydra"],
-  "language": ["TypeScript"],
+  "description": "TypeScript reimplementation of Hydra for HTTP brute-force testing: configurable wordlist, body and headers, error marker and parallel workers.",
+  "category": "Security",
+  "tags": [
+    "typescript",
+    "security"
+  ],
+  "language": [
+    "TypeScript"
+  ],
   "license": "MIT",
   "repository": "https://github.com/netaru3/hydra_in_typescript",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@netaru3"
+  ]
 }

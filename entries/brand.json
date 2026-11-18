@@ -6,5 +6,8 @@
   "language": [],
   "license": "CC-BY-4.0",
   "repository": "https://github.com/LibreCourseUY/brand",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@carlosplanchon"
+  ]
 }

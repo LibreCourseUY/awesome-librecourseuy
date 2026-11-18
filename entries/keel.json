@@ -3,9 +3,18 @@
   "url": "https://keel-linux.github.io",
   "description": "Library and CLI for declarative Keel Linux appliances, compatible with TurnKey Linux appliances.",
   "category": "Developer Tools",
-  "tags": ["linux", "docker", "cli"],
-  "language": ["Python"],
+  "tags": [
+    "linux",
+    "docker",
+    "cli"
+  ],
+  "language": [
+    "Python"
+  ],
   "license": "GPL-3.0",
   "repository": "https://github.com/Keel-Linux/keel",
-  "open_to_contributions": true
+  "open_to_contributions": true,
+  "maintainers": [
+    "@marcos-mendez"
+  ]
 }

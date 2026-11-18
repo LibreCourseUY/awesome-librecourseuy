@@ -158,6 +158,7 @@ explains what listing means and when an entry is removed.
 ### Security
 
 - [binja_wasm](https://github.com/SecondNewtonLaw/binja_wasm): Binary Ninja plugin that adds WebAssembly as an architecture, with decoding, text view and BNIL lifting. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
+- [Blue_tornet](https://github.com/netaru3/Blue_Tornet): Tor proxy that rotates exit circuits so each request leaves through a different exit IP, for privacy. ([@netaru3](https://github.com/netaru3))
 - [FirmaUY](https://github.com/carlosplanchon/firmauy): Sign and verify PDF, XML and arbitrary files locally with the Uruguayan electronic identity card. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [firmauy-mcp-inspect](https://github.com/carlosplanchon/firmauy-mcp-inspect): Read-only MCP server for offline inspection of Uruguayan digital signatures with FirmaUY. ([@carlosplanchon](https://github.com/carlosplanchon))
 - [Fission](https://github.com/SecondNewtonLaw/Fission): Work-in-progress Lua decompiler that lifts bytecode into IR and then AST, with type and name inference. ([@SecondNewtonLaw](https://github.com/SecondNewtonLaw))
@@ -177,7 +178,6 @@ explains what listing means and when an entry is removed.
 
 ### Other
 
-- [Blue_tornet](https://github.com/netaru3/Blue_tornet): is a tor proxy whit isolate circuits
 - [brand](https://github.com/LibreCourseUY/brand): Official brand assets, logos, and visual identity guidelines for LibreCourseUY.
 - [dsig](https://github.com/emiliano-go/dsig): GPG message signing for Vencord / Vesktop: every message carries a verifiable authorship attestation, not encryption. ([@emiliano-go](https://github.com/emiliano-go))
 <!-- PROJECTS:END -->

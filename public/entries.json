@@ -2159,26 +2159,6 @@
       "open_source": true
     },
     {
-      "name": "Blue_tornet",
-      "url": "https://github.com/netaru3/Blue_tornet",
-      "description": "is a tor proxy whit isolate circuits",
-      "category": "Other",
-      "tags": [
-        "javascript",
-        "tor"
-      ],
-      "language": [
-        "JavaScript"
-      ],
-      "maintainers": [],
-      "license": "MIT",
-      "commercial": false,
-      "repository": "https://github.com/netaru3/Blue_tornet",
-      "open_to_contributions": true,
-      "relationship": "community",
-      "open_source": true
-    },
-    {
       "name": "brand",
       "url": "https://github.com/LibreCourseUY/brand",
       "description": "Official brand assets, logos, and visual identity guidelines for LibreCourseUY.",
@@ -2235,6 +2215,30 @@
       "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/SecondNewtonLaw/binja_wasm",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Blue_tornet",
+      "url": "https://github.com/netaru3/Blue_Tornet",
+      "description": "Tor proxy that rotates exit circuits so each request leaves through a different exit IP, for privacy.",
+      "category": "Security",
+      "tags": [
+        "javascript",
+        "privacy",
+        "security",
+        "tor"
+      ],
+      "language": [
+        "JavaScript"
+      ],
+      "maintainers": [
+        "@netaru3"
+      ],
+      "license": "MIT",
+      "commercial": false,
+      "repository": "https://github.com/netaru3/Blue_Tornet",
       "open_to_contributions": true,
       "relationship": "community",
       "open_source": true

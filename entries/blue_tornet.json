@@ -1,10 +1,11 @@
 {
   "name": "Blue_tornet",
-  "description": "is a tor proxy whit isolate circuits",
-  "category": "Other",
-  "tags": ["javascript", "tor"],
+  "description": "Tor proxy that rotates exit circuits so each request leaves through a different exit IP, for privacy.",
+  "category": "Security",
+  "tags": ["javascript", "privacy", "security", "tor"],
   "language": ["JavaScript"],
+  "maintainers": ["@netaru3"],
   "license": "MIT",
-  "repository": "https://github.com/netaru3/Blue_tornet",
+  "repository": "https://github.com/netaru3/Blue_Tornet",
   "open_to_contributions": true
 }

@@ -824,6 +824,31 @@
       "open_source": true
     },
     {
+      "name": "Corrosion VST",
+      "url": "https://corrosion-vst.org/",
+      "description": "Industrial physical-modeling instrument (VST3 + CLAP) with bowed, struck, scraped and blown modal models of pipes, plates, chains and cables",
+      "category": "Desktop",
+      "tags": [
+        "audio",
+        "music",
+        "rust"
+      ],
+      "language": [
+        "Rust",
+        "JavaScript",
+        "Python"
+      ],
+      "maintainers": [
+        "@GerMP21"
+      ],
+      "license": "GPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/GerMP21/Corrosion-VST",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
       "name": "postal",
       "url": "https://github.com/emiliano-go/postal",
       "description": "A standalone native WhatsApp client that speaks the multi-device protocol directly: no webview, and history sync is a choice rather than a download.",
@@ -1122,6 +1147,32 @@
       "license": "Apache-2.0",
       "commercial": false,
       "repository": "https://github.com/emiliano-go/laya-coding-decisions",
+      "open_to_contributions": true,
+      "relationship": "community",
+      "open_source": true
+    },
+    {
+      "name": "Omnisnap",
+      "url": "https://omnisnap.org/",
+      "description": "Element-level cross-browser layout diffs from the browsers you already have, showing the measured cause of each difference and which engine is at fault",
+      "category": "Developer Tools",
+      "tags": [
+        "cli",
+        "go",
+        "css",
+        "firefox"
+      ],
+      "language": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ],
+      "maintainers": [
+        "@GerMP21"
+      ],
+      "license": "AGPL-3.0",
+      "commercial": false,
+      "repository": "https://github.com/GerMP21/Omnisnap",
       "open_to_contributions": true,
       "relationship": "community",
       "open_source": true

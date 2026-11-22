@@ -3,7 +3,7 @@
 
 A curated list of open source projects built by Uruguayan developers.
 
-114 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
+116 projects and counting. Every entry is a JSON file in [`entries/`](entries/)
 or [`orgs/`](orgs/), validated by CI. Want to add yours? Read
 [CONTRIBUTING.md](CONTRIBUTING.md); you never edit this README by hand.
 
@@ -57,6 +57,7 @@ explains what listing means and when an entry is removed.
 
 ### Desktop
 
+- [Corrosion VST](https://corrosion-vst.org/): Industrial physical-modeling instrument (VST3 + CLAP) with bowed, struck, scraped and blown modal models of pipes, plates, chains and cables ([@GerMP21](https://github.com/GerMP21))
 - [postal](https://github.com/emiliano-go/postal): A standalone native WhatsApp client that speaks the multi-device protocol directly: no webview, and history sync is a choice rather than a download. ([@emiliano-go](https://github.com/emiliano-go))
 - [quick-bitwarden](https://github.com/Kevin-Ramirez127/quick-bitwarden): A quick way to copy your Bitwarden passwords, with a fast r-modals picker. ([@Kevin-Ramirez127](https://github.com/Kevin-Ramirez127))
 - [sway-deere](https://github.com/gauchitodev/sway-deere): Sway desktop inspired by agricultural machinery displays, with a touch-friendly dashboard, movable widgets and system controls ([@gauchitodev](https://github.com/gauchitodev))
@@ -122,6 +123,7 @@ explains what listing means and when an entry is removed.
 - [hestia](https://github.com/emiliano-go/hestia): Self-hostable agentic project cockpit with persistent Totem memory. ([@emiliano-go](https://github.com/emiliano-go))
 - [Keel](https://keel-linux.github.io/): Library and CLI for declarative Keel Linux appliances, compatible with TurnKey Linux appliances. ([@marcos-mendez](https://github.com/marcos-mendez))
 - [laya-coding-decisions](https://github.com/emiliano-go/laya-coding-decisions): Training data and harness to turn Laya into a coding-agent judge for the hestia decision engine. ([@emiliano-go](https://github.com/emiliano-go))
+- [Omnisnap](https://omnisnap.org/): Element-level cross-browser layout diffs from the browsers you already have, showing the measured cause of each difference and which engine is at fault ([@GerMP21](https://github.com/GerMP21))
 - [opencode-bgj](https://github.com/emiliano-go/opencode-bgj): Standalone MCP server that gives the opencode agent tools to launch and supervise long-running shell jobs in the background. ([@emiliano-go](https://github.com/emiliano-go))
 - [Panopticon](https://github.com/emiliano-go/panopticon): Read-only unified index of repositories, Git history, releases, packages and CI metadata, exposed as a REST API, MCP server and dashboard. ([@emiliano-go](https://github.com/emiliano-go))
 - [PizzaJS Particle Creator](https://github.com/joaquinlarroca/PizzaJS-particle-creator): Visual particle effect editor for PizzaJS with adjustable particle parameters, live previews and generated code copying ([@joaquinlarroca](https://github.com/joaquinlarroca))

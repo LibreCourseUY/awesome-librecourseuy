@@ -1,0 +1,12 @@
+{
+  "name": "Corrosion VST",
+  "url": "https://corrosion-vst.org",
+  "description": "Industrial physical-modeling instrument (VST3 + CLAP) with bowed, struck, scraped and blown modal models of pipes, plates, chains and cables",
+  "category": "Desktop",
+  "tags": ["audio", "music", "rust"],
+  "language": ["Rust", "JavaScript", "Python"],
+  "maintainers": ["@GerMP21"],
+  "license": "GPL-3.0",
+  "repository": "https://github.com/GerMP21/Corrosion-VST",
+  "open_to_contributions": true
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Omnisnap",
+  "url": "https://omnisnap.org",
+  "description": "Element-level cross-browser layout diffs from the browsers you already have, showing the measured cause of each difference and which engine is at fault",
+  "category": "Developer Tools",
+  "tags": ["cli", "go", "css", "firefox"],
+  "language": ["Go", "JavaScript", "Python"],
+  "maintainers": ["@GerMP21"],
+  "license": "AGPL-3.0",
+  "repository": "https://github.com/GerMP21/Omnisnap",
+  "open_to_contributions": true
+}

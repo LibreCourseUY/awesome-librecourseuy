@@ -6,7 +6,7 @@
   "tags": ["linux", "automation", "offline", "rust"],
   "language": ["Rust"],
   "maintainers": ["@Kevin-Ramirez127"],
-  "license": "GPL-3.0",
+  "license": "MIT",
   "repository": "https://github.com/Kevin-Ramirez127/r-modals",
   "open_to_contributions": true
 }

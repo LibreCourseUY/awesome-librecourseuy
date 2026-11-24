@@ -1245,7 +1245,7 @@
     },
     {
       "name": "RBG-Harness",
-      "url": "https://github.com/emiliano-go/RBG-Harness",
+      "url": "https://github.com/emiliano-go/RBG",
       "description": "Single-LLM control plane for coding agents with deterministic retrieval, verification and small learned models.",
       "category": "Developer Tools",
       "tags": [
@@ -1260,7 +1260,7 @@
       ],
       "license": "MIT",
       "commercial": false,
-      "repository": "https://github.com/emiliano-go/RBG-Harness",
+      "repository": "https://github.com/emiliano-go/RBG",
       "open_to_contributions": true,
       "relationship": "community",
       "open_source": true

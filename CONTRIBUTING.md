@@ -87,17 +87,26 @@ hold.
 
 ### Activity tracking in Gitsion
 
-The [Gitsion synchronization](scripts/sync_gitsion.py) adds listed GitHub
-repositories to the activity tracker. Repositories already tracked are skipped.
-Repositories tracked by Gitsion but absent from the current catalog are reported
-in the workflow log and kept to preserve their activity history. This includes
-removed entries and repositories tracked independently of this catalog.
+The [Gitsion synchronization](scripts/sync_gitsion.py) keeps the activity
+tracker in step with the catalog. Every change to `entries/` on `master` adds
+the listed GitHub repositories that Gitsion does not track yet and stops
+tracking the ones that no entry lists. Repositories already tracked are skipped.
 
-Removing an entry changes the current catalog; it does not delete its history or
-automatically stop tracking it in Gitsion. The current catalog determines listing
-status. Presence in Gitsion does not establish current catalog membership or
-official LibreCourseUY status. Stopping tracking or deleting activity history is
-a separate maintenance decision.
+Removing an entry therefore removes the project and its activity from Gitsion on
+the next synchronization. The same happens to a repository that was added to
+Gitsion by hand and is not in the catalog: the catalog alone decides what is
+tracked. A project that is listed again is tracked afresh from what GitHub
+reports at that point.
+
+A repository that was renamed or transferred stays tracked while its entry still
+points at the former name; the workflow log names the entry to update. A run
+that cannot add an entry, or cannot tell what its repository is called now,
+removes nothing and fails, so a broken entry never costs another project its
+place.
+
+Presence in Gitsion does not establish official LibreCourseUY status. To see
+what a synchronization would change without changing anything, run
+`python3 scripts/sync_gitsion.py --dry-run`.
 
 ## Before you start
 

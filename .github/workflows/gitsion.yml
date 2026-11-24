@@ -16,11 +16,20 @@ concurrency:
 
 jobs:
   sync:
+    # The sync untracks what the catalog does not list, so a manual run from
+    # another branch must not decide what gitsion tracks.
+    if: ${{ github.ref == 'refs/heads/master' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Track every listed project in gitsion
+        with:
+          # Always the current catalog, not the commit that started the run:
+          # re-running an old run must not untrack what was listed after it.
+          ref: master
+      - name: Track every listed project in gitsion and untrack the rest
         env:
           GITSION_URL: https://api.gitsion.librecourse.uy
           GITSION_ADMIN_TOKEN: ${{ secrets.GITSION_ADMIN_TOKEN }}
+          # Only used to ask GitHub what a renamed repository is called now.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/sync_gitsion.py

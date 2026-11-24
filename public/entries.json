@@ -237,7 +237,7 @@
       "maintainers": [
         "@Kevin-Ramirez127"
       ],
-      "license": "GPL-3.0",
+      "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/opencode-telegram",
       "open_to_contributions": true,
@@ -884,7 +884,7 @@
       "maintainers": [
         "@Kevin-Ramirez127"
       ],
-      "license": "GPL-3.0",
+      "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/quick-bitwarden",
       "open_to_contributions": true,
@@ -1885,7 +1885,7 @@
       "maintainers": [
         "@Kevin-Ramirez127"
       ],
-      "license": "GPL-3.0",
+      "license": "MIT",
       "commercial": false,
       "repository": "https://github.com/Kevin-Ramirez127/r-modals",
       "open_to_contributions": true,
